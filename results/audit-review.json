@@ -1,0 +1,1358 @@
+{
+  "coherence": [
+    {
+      "strategy": "A",
+      "page": 1,
+      "offset": 8918,
+      "chunk_id": "pg158:1:8550:9050",
+      "text": " of ideas, and hoped, by the help of backgammon, to get her father tolerably through the evening, and be attacked by no regrets but her own. The backgammon-table was placed; but a visitor immediately afterwards walked in and made it unnecessary.\n\nMr. Knightley, a sensible man about seven or eight-and-thirty, was not only a very old and intimate friend of the family, but particularly connected with it, as the elder brother of Isabella’s husband. He lived about a mile from Highbury, was a frequent",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Giới thiệu được Knightley nhưng mất phần cuối mô tả và mở đầu giữa ý."
+    },
+    {
+      "strategy": "B",
+      "page": 1,
+      "offset": 8918,
+      "chunk_id": "pg158:1:8797:9180",
+      "text": "Mr. Knightley, a sensible man about seven or eight-and-thirty, was not only a very old and intimate friend of the family, but particularly connected with it, as the elder brother of Isabella’s husband. He lived about a mile from Highbury, was a frequent visitor, and always welcome, and at this time more welcome than usual, as coming directly from their mutual connexions in London.",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ trọn phần giới thiệu Knightley, quan hệ gia đình và lý do chuyến thăm."
+    },
+    {
+      "strategy": "C",
+      "page": 1,
+      "offset": 8918,
+      "chunk_id": "pg158:1:8797:9180",
+      "text": "Mr. Knightley, a sensible man about seven or eight-and-thirty, was not only a very old and intimate friend of the family, but particularly connected with it, as the elder brother of Isabella’s husband. He lived about a mile from Highbury, was a frequent visitor, and always welcome, and at this time more welcome than usual, as coming directly from their mutual connexions in London.",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ trọn phần giới thiệu Knightley, quan hệ gia đình và lý do chuyến thăm."
+    },
+    {
+      "strategy": "A",
+      "page": 2,
+      "offset": 4944,
+      "chunk_id": "pg158:2:4500:5000",
+      "text": "hoice: his fortune was his own; for as to Frank, it was more than being tacitly brought up as his uncle’s heir, it had become so avowed an adoption as to have him assume the name of Churchill on coming of age. It was most unlikely, therefore, that he should ever want his father’s assistance. His father had no apprehension of it. The aunt was a capricious woman, and governed her husband entirely; but it was not in Mr. Weston’s nature to imagine that any caprice could be strong enough to affect on",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Hiểu được việc nhận nuôi Frank, nhưng hai đầu bị cắt và thiếu điểm kết."
+    },
+    {
+      "strategy": "B",
+      "page": 2,
+      "offset": 4944,
+      "chunk_id": "pg158:2:4921:5328",
+      "text": "Weston’s nature to imagine that any caprice could be strong enough to affect one so dear, and, as he believed, so deservedly dear. He saw his son every year in London, and was proud of him; and his fond report of him as a very fine young man had made Highbury feel a sort of pride in him too. He was looked on as sufficiently belonging to the place to make his merits and prospects a kind of common concern.",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Đoạn mở đầu giữa câu về bà cô và thiếu tiền đề, dù phần sau về người cha còn đủ."
+    },
+    {
+      "strategy": "C",
+      "page": 2,
+      "offset": 4944,
+      "chunk_id": "pg158:2:4921:5328",
+      "text": "Weston’s nature to imagine that any caprice could be strong enough to affect one so dear, and, as he believed, so deservedly dear. He saw his son every year in London, and was proud of him; and his fond report of him as a very fine young man had made Highbury feel a sort of pride in him too. He was looked on as sufficiently belonging to the place to make his merits and prospects a kind of common concern.",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Đoạn mở đầu giữa câu về bà cô và thiếu tiền đề, dù phần sau về người cha còn đủ."
+    },
+    {
+      "strategy": "A",
+      "page": 3,
+      "offset": 5314,
+      "chunk_id": "pg158:3:4950:5450",
+      "text": "k comfortable, and very much pleased with herself for contriving things so well; but the quiet prosings of three such women made her feel that every evening so spent was indeed one of the long evenings she had fearfully anticipated.\n\nAs she sat one morning, looking forward to exactly such a close of the present day, a note was brought from Mrs. Goddard, requesting, in most respectful terms, to be allowed to bring Miss Smith with her; a most welcome request: for Miss Smith was a girl of seventeen",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Tìm thấy lời mời của Goddard nhưng phần giới thiệu Miss Smith bị cắt."
+    },
+    {
+      "strategy": "B",
+      "page": 3,
+      "offset": 5314,
+      "chunk_id": "pg158:3:5184:5658",
+      "text": "As she sat one morning, looking forward to exactly such a close of the present day, a note was brought from Mrs. Goddard, requesting, in most respectful terms, to be allowed to bring Miss Smith with her; a most welcome request: for Miss Smith was a girl of seventeen, whom Emma knew very well by sight, and had long felt an interest in, on account of her beauty. A very gracious invitation was returned, and the evening no longer dreaded by the fair mistress of the mansion.",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ lời mời, lý do Emma quan tâm và kết quả nhận lời."
+    },
+    {
+      "strategy": "C",
+      "page": 3,
+      "offset": 5314,
+      "chunk_id": "pg158:3:5184:5658",
+      "text": "As she sat one morning, looking forward to exactly such a close of the present day, a note was brought from Mrs. Goddard, requesting, in most respectful terms, to be allowed to bring Miss Smith with her; a most welcome request: for Miss Smith was a girl of seventeen, whom Emma knew very well by sight, and had long felt an interest in, on account of her beauty. A very gracious invitation was returned, and the evening no longer dreaded by the fair mistress of the mansion.",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ lời mời, lý do Emma quan tâm và kết quả nhận lời."
+    },
+    {
+      "strategy": "A",
+      "page": 4,
+      "offset": 9537,
+      "chunk_id": "pg158:4:9450:9950",
+      "text": "daughter, and you must support your claim to that station by every thing within your own power, or there will be plenty of people who would take pleasure in degrading you.”\n\n“Yes, to be sure, I suppose there are. But while I visit at Hartfield, and you are so kind to me, Miss Woodhouse, I am not afraid of what any body can do.”\n\n“You understand the force of influence pretty well, Harriet; but I would have you so firmly established in good society, as to be independent even of Hartfield and Miss ",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Hiểu được lời khuyên về vị thế xã hội, nhưng mất tiền đề về xuất thân và kết câu."
+    },
+    {
+      "strategy": "B",
+      "page": 4,
+      "offset": 9537,
+      "chunk_id": "pg158:4:9400:9779",
+      "text": "There can be no doubt of your being a gentleman’s daughter, and you must support your claim to that station by every thing within your own power, or there will be plenty of people who would take pleasure in degrading you.”\n\n“Yes, to be sure, I suppose there are. But while I visit at Hartfield, and you are so kind to me, Miss Woodhouse, I am not afraid of what any body can do.”",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ nguyên lời khuyên về địa vị và câu đáp của Harriet."
+    },
+    {
+      "strategy": "C",
+      "page": 4,
+      "offset": 9537,
+      "chunk_id": "pg158:4:9400:9779",
+      "text": "There can be no doubt of your being a gentleman’s daughter, and you must support your claim to that station by every thing within your own power, or there will be plenty of people who would take pleasure in degrading you.”\n\n“Yes, to be sure, I suppose there are. But while I visit at Hartfield, and you are so kind to me, Miss Woodhouse, I am not afraid of what any body can do.”",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ nguyên lời khuyên về địa vị và câu đáp của Harriet."
+    },
+    {
+      "strategy": "A",
+      "page": 5,
+      "offset": 5348,
+      "chunk_id": "pg158:5:4950:5450",
+      "text": "at Emma could possibly have. She knows nothing herself, and looks upon Emma as knowing every thing. She is a flatterer in all her ways; and so much the worse, because undesigned. Her ignorance is hourly flattery. How can Emma imagine she has any thing to learn herself, while Harriet is presenting such a delightful inferiority? And as for Harriet, I will venture to say that _she_ cannot gain by the acquaintance. Hartfield will only put her out of conceit with all the other places she belongs to. ",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Lời phê bình sự nịnh bợ và hệ quả với Harriet đủ rõ dù có mảnh câu thừa ở đầu."
+    },
+    {
+      "strategy": "B",
+      "page": 5,
+      "offset": 5348,
+      "chunk_id": "pg158:5:5129:5571",
+      "text": "Her ignorance is hourly flattery. How can Emma imagine she has any thing to learn herself, while Harriet is presenting such a delightful inferiority? And as for Harriet, I will venture to say that _she_ cannot gain by the acquaintance. Hartfield will only put her out of conceit with all the other places she belongs to. She will grow just refined enough to be uncomfortable with those among whom birth and circumstances have placed her home.",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ nhận định về ảnh hưởng của tình bạn và hệ quả xã hội với Harriet."
+    },
+    {
+      "strategy": "C",
+      "page": 5,
+      "offset": 5348,
+      "chunk_id": "pg158:5:5129:5571",
+      "text": "Her ignorance is hourly flattery. How can Emma imagine she has any thing to learn herself, while Harriet is presenting such a delightful inferiority? And as for Harriet, I will venture to say that _she_ cannot gain by the acquaintance. Hartfield will only put her out of conceit with all the other places she belongs to. She will grow just refined enough to be uncomfortable with those among whom birth and circumstances have placed her home.",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ nhận định về ảnh hưởng của tình bạn và hệ quả xã hội với Harriet."
+    },
+    {
+      "strategy": "A",
+      "page": 6,
+      "offset": 7517,
+      "chunk_id": "pg158:6:7200:7700",
+      "text": " George. The corner of the sofa is very good. Then here is my last,”—unclosing a pretty sketch of a gentleman in small size, whole-length—“my last and my best—my brother, Mr. John Knightley.—This did not want much of being finished, when I put it away in a pet, and vowed I would never take another likeness. I could not help being provoked; for after all my pains, and when I had really made a very good likeness of it—(Mrs. Weston and I were quite agreed in thinking it _very_ like)—only too handso",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Nhận ra chủ đề bức phác họa John Knightley, nhưng lý do phật ý bị cắt ở cuối."
+    },
+    {
+      "strategy": "B",
+      "page": 6,
+      "offset": 7517,
+      "chunk_id": "pg158:6:7509:7956",
+      "text": "I could not help being provoked; for after all my pains, and when I had really made a very good likeness of it—(Mrs. Weston and I were quite agreed in thinking it _very_ like)—only too handsome—too flattering—but that was a fault on the right side”—after all this, came poor dear Isabella’s cold approbation of—“Yes, it was a little like—but to be sure it did not do him justice. We had had a great deal of trouble in persuading him to sit at all.",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Giữ phản ứng về bức chân dung nhưng mở đầu bằng đại từ, phải xem đoạn trước để biết người kể."
+    },
+    {
+      "strategy": "C",
+      "page": 6,
+      "offset": 7517,
+      "chunk_id": "pg158:6:7509:7956",
+      "text": "I could not help being provoked; for after all my pains, and when I had really made a very good likeness of it—(Mrs. Weston and I were quite agreed in thinking it _very_ like)—only too handsome—too flattering—but that was a fault on the right side”—after all this, came poor dear Isabella’s cold approbation of—“Yes, it was a little like—but to be sure it did not do him justice. We had had a great deal of trouble in persuading him to sit at all.",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Giữ phản ứng về bức chân dung nhưng mở đầu bằng đại từ, phải xem đoạn trước để biết người kể."
+    },
+    {
+      "strategy": "A",
+      "page": 7,
+      "offset": 6541,
+      "chunk_id": "pg158:7:6300:6800",
+      "text": "result with impatience, but not without strong hopes. At last, with some hesitation, Harriet said—\n\n“Miss Woodhouse, as you will not give me your opinion, I must do as well as I can by myself; and I have now quite determined, and really almost made up my mind—to refuse Mr. Martin. Do you think I am right?”\n\n“Perfectly, perfectly right, my dearest Harriet; you are doing just what you ought. While you were at all in suspense I kept my feelings to myself, but now that you are so completely decided ",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ trọn quyết định từ chối ông Martin và ý tán thành đầu tiên."
+    },
+    {
+      "strategy": "B",
+      "page": 7,
+      "offset": 6541,
+      "chunk_id": "pg158:7:6400:6607",
+      "text": "“Miss Woodhouse, as you will not give me your opinion, I must do as well as I can by myself; and I have now quite determined, and really almost made up my mind—to refuse Mr. Martin. Do you think I am right?”",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ nguyên lời Harriet trình bày quyết định và hỏi ý kiến."
+    },
+    {
+      "strategy": "C",
+      "page": 7,
+      "offset": 6541,
+      "chunk_id": "pg158:7:6400:6607",
+      "text": "“Miss Woodhouse, as you will not give me your opinion, I must do as well as I can by myself; and I have now quite determined, and really almost made up my mind—to refuse Mr. Martin. Do you think I am right?”",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ nguyên lời Harriet trình bày quyết định và hỏi ý kiến."
+    },
+    {
+      "strategy": "A",
+      "page": 8,
+      "offset": 11656,
+      "chunk_id": "pg158:8:11250:11750",
+      "text": ". She desired nothing better herself. Till you chose to turn her into a friend, her mind had no distaste for her own set, nor any ambition beyond it. She was as happy as possible with the Martins in the summer. She had no sense of superiority then. If she has it now, you have given it. You have been no friend to Harriet Smith, Emma. Robert Martin would never have proceeded so far, if he had not felt persuaded of her not being disinclined to him. I know him well. He has too much real feeling to a",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Giữ lập luận chính về ảnh hưởng của Emma và tình cảm của Martin, dù câu cuối bị cắt."
+    },
+    {
+      "strategy": "B",
+      "page": 8,
+      "offset": 11656,
+      "chunk_id": "pg158:8:11252:11716",
+      "text": "She desired nothing better herself. Till you chose to turn her into a friend, her mind had no distaste for her own set, nor any ambition beyond it. She was as happy as possible with the Martins in the summer. She had no sense of superiority then. If she has it now, you have given it. You have been no friend to Harriet Smith, Emma. Robert Martin would never have proceeded so far, if he had not felt persuaded of her not being disinclined to him. I know him well.",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Lập luận về Martin còn đủ, nhưng câu đầu thiếu tiền đề và đoạn thiếu tên người nói."
+    },
+    {
+      "strategy": "C",
+      "page": 8,
+      "offset": 11656,
+      "chunk_id": "pg158:8:11252:11716",
+      "text": "She desired nothing better herself. Till you chose to turn her into a friend, her mind had no distaste for her own set, nor any ambition beyond it. She was as happy as possible with the Martins in the summer. She had no sense of superiority then. If she has it now, you have given it. You have been no friend to Harriet Smith, Emma. Robert Martin would never have proceeded so far, if he had not felt persuaded of her not being disinclined to him. I know him well.",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Lập luận về Martin còn đủ, nhưng câu đầu thiếu tiền đề và đoạn thiếu tên người nói."
+    },
+    {
+      "strategy": "A",
+      "page": 9,
+      "offset": 12816,
+      "chunk_id": "pg158:9:12600:13100",
+      "text": "t be agreeable to them, provided at least they have common sense; and we are not to be addressing our conduct to fools. If they are anxious to see you _happily_ married, here is a man whose amiable character gives every assurance of it;—if they wish to have you settled in the same country and circle which they have chosen to place you in, here it will be accomplished; and if their only object is that you should, in the common phrase, be _well_ married, here is the comfortable fortune, the respec",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Hiểu các điều kiện đánh giá cuộc hôn nhân, nhưng chưa hết điều kiện cuối."
+    },
+    {
+      "strategy": "B",
+      "page": 9,
+      "offset": 12816,
+      "chunk_id": "pg158:9:12531:13029",
+      "text": "“This is an alliance which, whoever—whatever your friends may be, must be agreeable to them, provided at least they have common sense; and we are not to be addressing our conduct to fools. If they are anxious to see you _happily_ married, here is a man whose amiable character gives every assurance of it;—if they wish to have you settled in the same country and circle which they have chosen to place you in, here it will be accomplished; and if their only object is that you should, in the common",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Lời nói bắt đầu đầy đủ nhưng mất kết quả của điều kiện cuối."
+    },
+    {
+      "strategy": "C",
+      "page": 9,
+      "offset": 12816,
+      "chunk_id": "pg158:9:12531:13029",
+      "text": "“This is an alliance which, whoever—whatever your friends may be, must be agreeable to them, provided at least they have common sense; and we are not to be addressing our conduct to fools. If they are anxious to see you _happily_ married, here is a man whose amiable character gives every assurance of it;—if they wish to have you settled in the same country and circle which they have chosen to place you in, here it will be accomplished; and if their only object is that you should, in the common",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Lời nói bắt đầu đầy đủ nhưng mất kết quả của điều kiện cuối."
+    },
+    {
+      "strategy": "A",
+      "page": 10,
+      "offset": 7163,
+      "chunk_id": "pg158:10:6750:7250",
+      "text": " very well; but she tires me to death.”\n\nThey were now approaching the cottage, and all idle topics were superseded. Emma was very compassionate; and the distresses of the poor were as sure of relief from her personal attention and kindness, her counsel and her patience, as from her purse. She understood their ways, could allow for their ignorance and their temptations, had no romantic expectations of extraordinary virtue from those for whom education had done so little; entered into their troub",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Hiểu Emma giúp người nghèo thế nào, nhưng mất phần kết mô tả cách cô hành xử."
+    },
+    {
+      "strategy": "B",
+      "page": 10,
+      "offset": 7163,
+      "chunk_id": "pg158:10:6791:7290",
+      "text": "They were now approaching the cottage, and all idle topics were superseded. Emma was very compassionate; and the distresses of the poor were as sure of relief from her personal attention and kindness, her counsel and her patience, as from her purse. She understood their ways, could allow for their ignorance and their temptations, had no romantic expectations of extraordinary virtue from those for whom education had done so little; entered into their troubles with ready sympathy, and always gave",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Giữ hành động và chủ thể, nhưng đoạn mô tả lòng trắc ẩn bị cắt ở cuối."
+    },
+    {
+      "strategy": "C",
+      "page": 10,
+      "offset": 7163,
+      "chunk_id": "pg158:10:6791:7290",
+      "text": "They were now approaching the cottage, and all idle topics were superseded. Emma was very compassionate; and the distresses of the poor were as sure of relief from her personal attention and kindness, her counsel and her patience, as from her purse. She understood their ways, could allow for their ignorance and their temptations, had no romantic expectations of extraordinary virtue from those for whom education had done so little; entered into their troubles with ready sympathy, and always gave",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Giữ hành động và chủ thể, nhưng đoạn mô tả lòng trắc ẩn bị cắt ở cuối."
+    }
+  ],
+  "metadata": [
+    {
+      "strategy": "A",
+      "id": "Q16",
+      "rank": 1,
+      "chunk_id": "pg158:25:6300:6800",
+      "metadata": {
+        "end": 6800,
+        "start": 6300,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "volume": "II",
+        "document_id": "pg158",
+        "page": 25,
+        "chapter": "VII"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q16",
+      "rank": 2,
+      "chunk_id": "pg158:34:3600:4100",
+      "metadata": {
+        "start": 3600,
+        "page": 34,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "chapter": "XVI",
+        "document_id": "pg158",
+        "end": 4100,
+        "volume": "II"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q16",
+      "rank": 3,
+      "chunk_id": "pg158:44:9000:9500",
+      "metadata": {
+        "document_id": "pg158",
+        "start": 9000,
+        "chapter": "VIII",
+        "page": 44,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "end": 9500,
+        "volume": "III"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q17",
+      "rank": 1,
+      "chunk_id": "pg158:46:6750:7250",
+      "metadata": {
+        "start": 6750,
+        "end": 7250,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "volume": "III",
+        "page": 46,
+        "chapter": "X"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q17",
+      "rank": 2,
+      "chunk_id": "pg158:50:13950:14450",
+      "metadata": {
+        "end": 14450,
+        "chapter": "XIV",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "volume": "III",
+        "page": 50,
+        "start": 13950
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q17",
+      "rank": 3,
+      "chunk_id": "pg158:46:13050:13550",
+      "metadata": {
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "end": 13550,
+        "start": 13050,
+        "page": 46,
+        "volume": "III",
+        "chapter": "X"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q18",
+      "rank": 1,
+      "chunk_id": "pg158:20:0:500",
+      "metadata": {
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "page": 20,
+        "chapter": "II",
+        "end": 500,
+        "document_id": "pg158",
+        "volume": "II",
+        "start": 0
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q18",
+      "rank": 2,
+      "chunk_id": "pg158:20:2250:2750",
+      "metadata": {
+        "end": 2750,
+        "volume": "II",
+        "start": 2250,
+        "document_id": "pg158",
+        "page": 20,
+        "chapter": "II",
+        "source": "https://www.gutenberg.org/ebooks/158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q18",
+      "rank": 3,
+      "chunk_id": "pg158:20:8100:8600",
+      "metadata": {
+        "chapter": "II",
+        "page": 20,
+        "volume": "II",
+        "end": 8600,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "start": 8100,
+        "document_id": "pg158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q19",
+      "rank": 1,
+      "chunk_id": "pg158:2:6750:7250",
+      "metadata": {
+        "end": 7250,
+        "document_id": "pg158",
+        "page": 2,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "start": 6750,
+        "volume": "I",
+        "chapter": "II"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q19",
+      "rank": 2,
+      "chunk_id": "pg158:39:5400:5900",
+      "metadata": {
+        "chapter": "III",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "start": 5400,
+        "end": 5900,
+        "document_id": "pg158",
+        "page": 39,
+        "volume": "III"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q19",
+      "rank": 3,
+      "chunk_id": "pg158:31:9450:9950",
+      "metadata": {
+        "page": 31,
+        "end": 9950,
+        "volume": "II",
+        "start": 9450,
+        "document_id": "pg158",
+        "chapter": "XIII",
+        "source": "https://www.gutenberg.org/ebooks/158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q20",
+      "rank": 1,
+      "chunk_id": "pg158:55:5400:5900",
+      "metadata": {
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "chapter": "XIX",
+        "start": 5400,
+        "page": 55,
+        "document_id": "pg158",
+        "volume": "III",
+        "end": 5900
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q20",
+      "rank": 2,
+      "chunk_id": "pg158:1:3600:4100",
+      "metadata": {
+        "document_id": "pg158",
+        "chapter": "I",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "page": 1,
+        "end": 4100,
+        "start": 3600,
+        "volume": "I"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "A",
+      "id": "Q20",
+      "rank": 3,
+      "chunk_id": "pg158:42:3150:3650",
+      "metadata": {
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "volume": "III",
+        "chapter": "VI",
+        "page": 42,
+        "start": 3150,
+        "document_id": "pg158",
+        "end": 3650
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q16",
+      "rank": 1,
+      "chunk_id": "pg158:43:0:482",
+      "metadata": {
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "chapter": "VII",
+        "page": 43,
+        "volume": "III",
+        "end": 482,
+        "start": 0,
+        "document_id": "pg158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q16",
+      "rank": 2,
+      "chunk_id": "pg158:38:2164:2442",
+      "metadata": {
+        "document_id": "pg158",
+        "start": 2164,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "volume": "III",
+        "page": 38,
+        "chapter": "II",
+        "end": 2442
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q16",
+      "rank": 3,
+      "chunk_id": "pg158:34:3558:4055",
+      "metadata": {
+        "chapter": "XVI",
+        "end": 4055,
+        "document_id": "pg158",
+        "page": 34,
+        "volume": "II",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "start": 3558
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q17",
+      "rank": 1,
+      "chunk_id": "pg158:46:6611:6998",
+      "metadata": {
+        "start": 6611,
+        "page": 46,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "volume": "III",
+        "document_id": "pg158",
+        "end": 6998,
+        "chapter": "X"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q17",
+      "rank": 2,
+      "chunk_id": "pg158:26:34666:35097",
+      "metadata": {
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "page": 26,
+        "volume": "II",
+        "start": 34666,
+        "document_id": "pg158",
+        "chapter": "VIII",
+        "end": 35097
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q17",
+      "rank": 3,
+      "chunk_id": "pg158:50:14126:14599",
+      "metadata": {
+        "end": 14599,
+        "page": 50,
+        "start": 14126,
+        "volume": "III",
+        "chapter": "XIV",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q18",
+      "rank": 1,
+      "chunk_id": "pg158:20:0:392",
+      "metadata": {
+        "chapter": "II",
+        "document_id": "pg158",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "volume": "II",
+        "end": 392,
+        "start": 0,
+        "page": 20
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q18",
+      "rank": 2,
+      "chunk_id": "pg158:21:2808:3210",
+      "metadata": {
+        "page": 21,
+        "document_id": "pg158",
+        "end": 3210,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "start": 2808,
+        "volume": "II",
+        "chapter": "III"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q18",
+      "rank": 3,
+      "chunk_id": "pg158:20:2480:2919",
+      "metadata": {
+        "end": 2919,
+        "chapter": "II",
+        "start": 2480,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "volume": "II",
+        "page": 20
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q19",
+      "rank": 1,
+      "chunk_id": "pg158:52:6741:7078",
+      "metadata": {
+        "volume": "III",
+        "end": 7078,
+        "page": 52,
+        "document_id": "pg158",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "start": 6741,
+        "chapter": "XVI"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q19",
+      "rank": 2,
+      "chunk_id": "pg158:20:5344:5658",
+      "metadata": {
+        "end": 5658,
+        "start": 5344,
+        "page": 20,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "chapter": "II",
+        "volume": "II",
+        "document_id": "pg158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q19",
+      "rank": 3,
+      "chunk_id": "pg158:49:14290:14769",
+      "metadata": {
+        "page": 49,
+        "volume": "III",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "chapter": "XIII",
+        "end": 14769,
+        "start": 14290
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q20",
+      "rank": 1,
+      "chunk_id": "pg158:55:5273:5675",
+      "metadata": {
+        "document_id": "pg158",
+        "chapter": "XIX",
+        "volume": "III",
+        "end": 5675,
+        "start": 5273,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "page": 55
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q20",
+      "rank": 2,
+      "chunk_id": "pg158:42:18134:18613",
+      "metadata": {
+        "end": 18613,
+        "volume": "III",
+        "page": 42,
+        "chapter": "VI",
+        "start": 18134,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "B",
+      "id": "Q20",
+      "rank": 3,
+      "chunk_id": "pg158:11:6457:6923",
+      "metadata": {
+        "volume": "I",
+        "chapter": "XI",
+        "end": 6923,
+        "start": 6457,
+        "document_id": "pg158",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "page": 11
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q16",
+      "rank": 1,
+      "chunk_id": "pg158:43:0:482",
+      "metadata": {
+        "chapter": "VII",
+        "page": 43,
+        "end": 482,
+        "document_id": "pg158",
+        "start": 0,
+        "volume": "III",
+        "source": "https://www.gutenberg.org/ebooks/158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q16",
+      "rank": 2,
+      "chunk_id": "pg158:38:2164:2442",
+      "metadata": {
+        "chapter": "II",
+        "end": 2442,
+        "page": 38,
+        "volume": "III",
+        "start": 2164,
+        "document_id": "pg158",
+        "source": "https://www.gutenberg.org/ebooks/158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q16",
+      "rank": 3,
+      "chunk_id": "pg158:41:2185:2574",
+      "metadata": {
+        "start": 2185,
+        "page": 41,
+        "end": 2574,
+        "chapter": "V",
+        "volume": "III",
+        "document_id": "pg158",
+        "source": "https://www.gutenberg.org/ebooks/158"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q17",
+      "rank": 1,
+      "chunk_id": "pg158:46:6611:6998",
+      "metadata": {
+        "start": 6611,
+        "volume": "III",
+        "document_id": "pg158",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "page": 46,
+        "end": 6998,
+        "chapter": "X"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q17",
+      "rank": 2,
+      "chunk_id": "pg158:50:14126:14599",
+      "metadata": {
+        "end": 14599,
+        "chapter": "XIV",
+        "page": 50,
+        "document_id": "pg158",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "start": 14126,
+        "volume": "III"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q17",
+      "rank": 3,
+      "chunk_id": "pg158:47:16949:17448",
+      "metadata": {
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "end": 17448,
+        "page": 47,
+        "start": 16949,
+        "chapter": "XI",
+        "volume": "III"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q18",
+      "rank": 1,
+      "chunk_id": "pg158:47:1668:2159",
+      "metadata": {
+        "start": 1668,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "page": 47,
+        "volume": "III",
+        "chapter": "XI",
+        "end": 2159
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q18",
+      "rank": 2,
+      "chunk_id": "pg158:54:11602:11858",
+      "metadata": {
+        "chapter": "XVIII",
+        "page": 54,
+        "volume": "III",
+        "document_id": "pg158",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "end": 11858,
+        "start": 11602
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q18",
+      "rank": 3,
+      "chunk_id": "pg158:45:7984:8469",
+      "metadata": {
+        "page": 45,
+        "end": 8469,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "chapter": "IX",
+        "start": 7984,
+        "volume": "III"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q19",
+      "rank": 1,
+      "chunk_id": "pg158:52:6741:7078",
+      "metadata": {
+        "page": 52,
+        "volume": "III",
+        "chapter": "XVI",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "document_id": "pg158",
+        "start": 6741,
+        "end": 7078
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q19",
+      "rank": 2,
+      "chunk_id": "pg158:20:5344:5658",
+      "metadata": {
+        "document_id": "pg158",
+        "end": 5658,
+        "page": 20,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "volume": "II",
+        "start": 5344,
+        "chapter": "II"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q19",
+      "rank": 3,
+      "chunk_id": "pg158:49:14290:14769",
+      "metadata": {
+        "page": 49,
+        "document_id": "pg158",
+        "end": 14769,
+        "volume": "III",
+        "start": 14290,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "chapter": "XIII"
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q20",
+      "rank": 1,
+      "chunk_id": "pg158:55:5273:5675",
+      "metadata": {
+        "chapter": "XIX",
+        "document_id": "pg158",
+        "end": 5675,
+        "volume": "III",
+        "start": 5273,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "page": 55
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q20",
+      "rank": 2,
+      "chunk_id": "pg158:42:18134:18613",
+      "metadata": {
+        "volume": "III",
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "chapter": "VI",
+        "document_id": "pg158",
+        "end": 18613,
+        "start": 18134,
+        "page": 42
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    },
+    {
+      "strategy": "C",
+      "id": "Q20",
+      "rank": 3,
+      "chunk_id": "pg158:11:6457:6923",
+      "metadata": {
+        "chapter": "XI",
+        "page": 11,
+        "end": 6923,
+        "source": "https://www.gutenberg.org/ebooks/158",
+        "volume": "I",
+        "document_id": "pg158",
+        "start": 6457
+      },
+      "matched_snapshot": true,
+      "manual_valid": null,
+      "reason": "",
+      "ai_valid": true,
+      "ai_reason": "ID, URL, tập, chương và offset khớp bản văn chuẩn hóa theo kiểm tra bằng code."
+    }
+  ],
+  "grounding": [
+    {
+      "strategy": "A",
+      "id": "Q16",
+      "label": null,
+      "reason": "",
+      "ai_label": 0,
+      "ai_reason": "Ba đoạn nói về các cuộc đi chơi hoặc tiệc khác, thiếu tên Box Hill."
+    },
+    {
+      "strategy": "A",
+      "id": "Q17",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Có chi tiết đính hôn bí mật nhưng các đoạn không xác định đủ tên hai người."
+    },
+    {
+      "strategy": "A",
+      "id": "Q18",
+      "label": null,
+      "reason": "",
+      "ai_label": 0,
+      "ai_reason": "Có thông tin về Jane Fairfax nhưng thiếu tên chủ nhà thuê cô làm gia sư."
+    },
+    {
+      "strategy": "A",
+      "id": "Q19",
+      "label": null,
+      "reason": "",
+      "ai_label": 0,
+      "ai_reason": "Các đoạn nói về những dịp khác hoặc nhầm người hồi phục, thiếu sự kiện liên quan Mrs. Weston."
+    },
+    {
+      "strategy": "A",
+      "id": "Q20",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Top-1 nêu cả chuồng gia cầm của Mrs. Weston và số gà tây bị lấy."
+    },
+    {
+      "strategy": "B",
+      "id": "Q16",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Top-1 nêu đúng Box Hill và mô tả chuyến đi."
+    },
+    {
+      "strategy": "B",
+      "id": "Q17",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Có chi tiết đính hôn bí mật nhưng các đoạn không xác định đủ tên hai người."
+    },
+    {
+      "strategy": "B",
+      "id": "Q18",
+      "label": null,
+      "reason": "",
+      "ai_label": 0,
+      "ai_reason": "Có thông tin về Jane Fairfax nhưng thiếu tên chủ nhà thuê cô làm gia sư."
+    },
+    {
+      "strategy": "B",
+      "id": "Q19",
+      "label": null,
+      "reason": "",
+      "ai_label": 0,
+      "ai_reason": "Các đoạn nói về những dịp khác hoặc nhầm người hồi phục, thiếu sự kiện liên quan Mrs. Weston."
+    },
+    {
+      "strategy": "B",
+      "id": "Q20",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Top-1 nêu cả chuồng gia cầm của Mrs. Weston và số gà tây bị lấy."
+    },
+    {
+      "strategy": "C",
+      "id": "Q16",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Top-1 nêu đúng Box Hill và mô tả chuyến đi."
+    },
+    {
+      "strategy": "C",
+      "id": "Q17",
+      "label": null,
+      "reason": "",
+      "ai_label": 1,
+      "ai_reason": "Có chi tiết đính hôn bí mật nhưng các đoạn không xác định đủ tên hai người."
+    },
+    {
+      "strategy": "C",
+      "id": "Q18",
+      "label": null,
+      "reason": "",
+      "ai_label": 0,
+      "ai_reason": "Có thông tin về Jane Fairfax nhưng thiếu tên chủ nhà thuê cô làm gia sư."
+    },
+    {
+      "strategy": "C",
+      "id": "Q19",
+      "label": null,
+      "reason": "",
+      "ai_label": 0,
+      "ai_reason": "Các đoạn nói về những dịp khác hoặc nhầm người hồi phục, thiếu sự kiện liên quan Mrs. Weston."
+    },
+    {
+      "strategy": "C",
+      "id": "Q20",
+      "label": null,
+      "reason": "",
+      "ai_label": 2,
+      "ai_reason": "Top-1 nêu cả chuồng gia cầm của Mrs. Weston và số gà tây bị lấy."
+    }
+  ]
+}

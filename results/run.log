@@ -1,0 +1,5 @@
+2026-11-14 20:12:52,427 INFO Loaded 55 chapters. Excluded front matter, contents and Gutenberg footer.
+2026-11-14 20:15:13,988 INFO A: 1971 chunks, ingest 140.12s, reused=False
+2026-11-14 20:17:31,592 INFO B: 2300 chunks, ingest 137.57s, reused=False
+2026-11-14 20:17:31,864 INFO Selected on dev before running test: A
+2026-11-14 20:17:31,964 INFO Saved 60 search traces to D:\AITC\AFT_LAB\LAB06\results

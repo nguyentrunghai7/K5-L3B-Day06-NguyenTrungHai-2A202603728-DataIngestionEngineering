@@ -1,4 +1,4 @@
 strategy,chunking,chunk_size,overlap,metadata,filter,vectorizer,hypothesis,dev_hit1,dev_hit3,test_hit1,test_hit3,notes
-A,,,,,,,,,,,,
-B,,,,,,,,,,,,
-C,,,,,,,,,,,,
+A,fixed,500,50,document_id source page volume chapter start end,,BAAI/bge-small-en-v1.5,Overlap may preserve evidence around fixed boundaries.,8/15,9/15,1/5,1/5,
+B,paragraph,500,0,document_id source page volume chapter start end,,BAAI/bge-small-en-v1.5,Paragraph and sentence boundaries may preserve context.,4/15,6/15,2/5,2/5,
+C,paragraph,500,0,document_id source page volume chapter start end,volume if supplied,BAAI/bge-small-en-v1.5,Volume filter may reduce results from unrelated volumes.,4/15,6/15,2/5,2/5,Shares B index

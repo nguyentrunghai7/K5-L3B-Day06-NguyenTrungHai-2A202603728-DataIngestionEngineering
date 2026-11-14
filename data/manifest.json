@@ -1,0 +1,456 @@
+{
+  "source_id": "pg158",
+  "title": "Emma",
+  "author": "Jane Austen",
+  "source_path_or_url": "https://www.gutenberg.org/ebooks/158",
+  "download_url": "https://www.gutenberg.org/cache/epub/158/pg158.txt",
+  "license_or_permission": "Public domain in the USA per Gutenberg; original eBook subject to Project Gutenberg License notice and local law.",
+  "accessed_at": "2026-11-14",
+  "snapshot": "eBook #158; embedded update June 21, 2026",
+  "sha256": "532b122b4e6a76cc556d6fdcd729b5892f5c4ce4a1b7060b9f832adfad8680dc",
+  "unit_rule": "Each chapter body is one independent source unit; omit contents, front matter, volume labels, chapter headings and footer. Lines are 1-based in UTF-8 source.",
+  "unit_count": 55,
+  "normalized_characters": 878458,
+  "units": [
+    {
+      "page": 1,
+      "volume": "I",
+      "chapter": "I",
+      "heading_line": 108,
+      "last_line_before_boundary": 441,
+      "normalized_characters": 17836
+    },
+    {
+      "page": 2,
+      "volume": "I",
+      "chapter": "II",
+      "heading_line": 442,
+      "last_line_before_boundary": 608,
+      "normalized_characters": 9888
+    },
+    {
+      "page": 3,
+      "volume": "I",
+      "chapter": "III",
+      "heading_line": 609,
+      "last_line_before_boundary": 790,
+      "normalized_characters": 10629
+    },
+    {
+      "page": 4,
+      "volume": "I",
+      "chapter": "IV",
+      "heading_line": 791,
+      "last_line_before_boundary": 1137,
+      "normalized_characters": 19074
+    },
+    {
+      "page": 5,
+      "volume": "I",
+      "chapter": "V",
+      "heading_line": 1138,
+      "last_line_before_boundary": 1341,
+      "normalized_characters": 10696
+    },
+    {
+      "page": 6,
+      "volume": "I",
+      "chapter": "VI",
+      "heading_line": 1342,
+      "last_line_before_boundary": 1629,
+      "normalized_characters": 15034
+    },
+    {
+      "page": 7,
+      "volume": "I",
+      "chapter": "VII",
+      "heading_line": 1630,
+      "last_line_before_boundary": 1893,
+      "normalized_characters": 13082
+    },
+    {
+      "page": 8,
+      "volume": "I",
+      "chapter": "VIII",
+      "heading_line": 1894,
+      "last_line_before_boundary": 2319,
+      "normalized_characters": 23312
+    },
+    {
+      "page": 9,
+      "volume": "I",
+      "chapter": "IX",
+      "heading_line": 2320,
+      "last_line_before_boundary": 2879,
+      "normalized_characters": 25632
+    },
+    {
+      "page": 10,
+      "volume": "I",
+      "chapter": "X",
+      "heading_line": 2880,
+      "last_line_before_boundary": 3151,
+      "normalized_characters": 14327
+    },
+    {
+      "page": 11,
+      "volume": "I",
+      "chapter": "XI",
+      "heading_line": 3152,
+      "last_line_before_boundary": 3367,
+      "normalized_characters": 11959
+    },
+    {
+      "page": 12,
+      "volume": "I",
+      "chapter": "XII",
+      "heading_line": 3368,
+      "last_line_before_boundary": 3717,
+      "normalized_characters": 17556
+    },
+    {
+      "page": 13,
+      "volume": "I",
+      "chapter": "XIII",
+      "heading_line": 3718,
+      "last_line_before_boundary": 4031,
+      "normalized_characters": 16523
+    },
+    {
+      "page": 14,
+      "volume": "I",
+      "chapter": "XIV",
+      "heading_line": 4032,
+      "last_line_before_boundary": 4270,
+      "normalized_characters": 13219
+    },
+    {
+      "page": 15,
+      "volume": "I",
+      "chapter": "XV",
+      "heading_line": 4271,
+      "last_line_before_boundary": 4598,
+      "normalized_characters": 18444
+    },
+    {
+      "page": 16,
+      "volume": "I",
+      "chapter": "XVI",
+      "heading_line": 4599,
+      "last_line_before_boundary": 4787,
+      "normalized_characters": 10633
+    },
+    {
+      "page": 17,
+      "volume": "I",
+      "chapter": "XVII",
+      "heading_line": 4788,
+      "last_line_before_boundary": 4913,
+      "normalized_characters": 6687
+    },
+    {
+      "page": 18,
+      "volume": "I",
+      "chapter": "XVIII",
+      "heading_line": 4914,
+      "last_line_before_boundary": 5172,
+      "normalized_characters": 13771
+    },
+    {
+      "page": 19,
+      "volume": "II",
+      "chapter": "I",
+      "heading_line": 5178,
+      "last_line_before_boundary": 5460,
+      "normalized_characters": 16045
+    },
+    {
+      "page": 20,
+      "volume": "II",
+      "chapter": "II",
+      "heading_line": 5461,
+      "last_line_before_boundary": 5692,
+      "normalized_characters": 13790
+    },
+    {
+      "page": 21,
+      "volume": "II",
+      "chapter": "III",
+      "heading_line": 5693,
+      "last_line_before_boundary": 6086,
+      "normalized_characters": 20964
+    },
+    {
+      "page": 22,
+      "volume": "II",
+      "chapter": "IV",
+      "heading_line": 6087,
+      "last_line_before_boundary": 6249,
+      "normalized_characters": 9355
+    },
+    {
+      "page": 23,
+      "volume": "II",
+      "chapter": "V",
+      "heading_line": 6250,
+      "last_line_before_boundary": 6592,
+      "normalized_characters": 18283
+    },
+    {
+      "page": 24,
+      "volume": "II",
+      "chapter": "VI",
+      "heading_line": 6593,
+      "last_line_before_boundary": 6902,
+      "normalized_characters": 16631
+    },
+    {
+      "page": 25,
+      "volume": "II",
+      "chapter": "VII",
+      "heading_line": 6903,
+      "last_line_before_boundary": 7125,
+      "normalized_characters": 12745
+    },
+    {
+      "page": 26,
+      "volume": "II",
+      "chapter": "VIII",
+      "heading_line": 7126,
+      "last_line_before_boundary": 7794,
+      "normalized_characters": 35568
+    },
+    {
+      "page": 27,
+      "volume": "II",
+      "chapter": "IX",
+      "heading_line": 7795,
+      "last_line_before_boundary": 8122,
+      "normalized_characters": 16979
+    },
+    {
+      "page": 28,
+      "volume": "II",
+      "chapter": "X",
+      "heading_line": 8123,
+      "last_line_before_boundary": 8363,
+      "normalized_characters": 11017
+    },
+    {
+      "page": 29,
+      "volume": "II",
+      "chapter": "XI",
+      "heading_line": 8364,
+      "last_line_before_boundary": 8714,
+      "normalized_characters": 17834
+    },
+    {
+      "page": 30,
+      "volume": "II",
+      "chapter": "XII",
+      "heading_line": 8715,
+      "last_line_before_boundary": 8953,
+      "normalized_characters": 11836
+    },
+    {
+      "page": 31,
+      "volume": "II",
+      "chapter": "XIII",
+      "heading_line": 8954,
+      "last_line_before_boundary": 9140,
+      "normalized_characters": 10979
+    },
+    {
+      "page": 32,
+      "volume": "II",
+      "chapter": "XIV",
+      "heading_line": 9141,
+      "last_line_before_boundary": 9535,
+      "normalized_characters": 20839
+    },
+    {
+      "page": 33,
+      "volume": "II",
+      "chapter": "XV",
+      "heading_line": 9536,
+      "last_line_before_boundary": 9844,
+      "normalized_characters": 16638
+    },
+    {
+      "page": 34,
+      "volume": "II",
+      "chapter": "XVI",
+      "heading_line": 9845,
+      "last_line_before_boundary": 10180,
+      "normalized_characters": 17014
+    },
+    {
+      "page": 35,
+      "volume": "II",
+      "chapter": "XVII",
+      "heading_line": 10181,
+      "last_line_before_boundary": 10400,
+      "normalized_characters": 11915
+    },
+    {
+      "page": 36,
+      "volume": "II",
+      "chapter": "XVIII",
+      "heading_line": 10401,
+      "last_line_before_boundary": 10697,
+      "normalized_characters": 15235
+    },
+    {
+      "page": 37,
+      "volume": "III",
+      "chapter": "I",
+      "heading_line": 10703,
+      "last_line_before_boundary": 10826,
+      "normalized_characters": 6990
+    },
+    {
+      "page": 38,
+      "volume": "III",
+      "chapter": "II",
+      "heading_line": 10827,
+      "last_line_before_boundary": 11272,
+      "normalized_characters": 24460
+    },
+    {
+      "page": 39,
+      "volume": "III",
+      "chapter": "III",
+      "heading_line": 11273,
+      "last_line_before_boundary": 11436,
+      "normalized_characters": 9640
+    },
+    {
+      "page": 40,
+      "volume": "III",
+      "chapter": "IV",
+      "heading_line": 11437,
+      "last_line_before_boundary": 11663,
+      "normalized_characters": 11189
+    },
+    {
+      "page": 41,
+      "volume": "III",
+      "chapter": "V",
+      "heading_line": 11664,
+      "last_line_before_boundary": 11968,
+      "normalized_characters": 16516
+    },
+    {
+      "page": 42,
+      "volume": "III",
+      "chapter": "VI",
+      "heading_line": 11969,
+      "last_line_before_boundary": 12492,
+      "normalized_characters": 28258
+    },
+    {
+      "page": 43,
+      "volume": "III",
+      "chapter": "VII",
+      "heading_line": 12493,
+      "last_line_before_boundary": 12856,
+      "normalized_characters": 18334
+    },
+    {
+      "page": 44,
+      "volume": "III",
+      "chapter": "VIII",
+      "heading_line": 12857,
+      "last_line_before_boundary": 13125,
+      "normalized_characters": 14984
+    },
+    {
+      "page": 45,
+      "volume": "III",
+      "chapter": "IX",
+      "heading_line": 13126,
+      "last_line_before_boundary": 13362,
+      "normalized_characters": 13916
+    },
+    {
+      "page": 46,
+      "volume": "III",
+      "chapter": "X",
+      "heading_line": 13363,
+      "last_line_before_boundary": 13718,
+      "normalized_characters": 17231
+    },
+    {
+      "page": 47,
+      "volume": "III",
+      "chapter": "XI",
+      "heading_line": 13719,
+      "last_line_before_boundary": 14144,
+      "normalized_characters": 24033
+    },
+    {
+      "page": 48,
+      "volume": "III",
+      "chapter": "XII",
+      "heading_line": 14145,
+      "last_line_before_boundary": 14423,
+      "normalized_characters": 16810
+    },
+    {
+      "page": 49,
+      "volume": "III",
+      "chapter": "XIII",
+      "heading_line": 14424,
+      "last_line_before_boundary": 14762,
+      "normalized_characters": 18698
+    },
+    {
+      "page": 50,
+      "volume": "III",
+      "chapter": "XIV",
+      "heading_line": 14763,
+      "last_line_before_boundary": 15085,
+      "normalized_characters": 20066
+    },
+    {
+      "page": 51,
+      "volume": "III",
+      "chapter": "XV",
+      "heading_line": 15086,
+      "last_line_before_boundary": 15336,
+      "normalized_characters": 13086
+    },
+    {
+      "page": 52,
+      "volume": "III",
+      "chapter": "XVI",
+      "heading_line": 15337,
+      "last_line_before_boundary": 15688,
+      "normalized_characters": 18144
+    },
+    {
+      "page": 53,
+      "volume": "III",
+      "chapter": "XVII",
+      "heading_line": 15689,
+      "last_line_before_boundary": 15991,
+      "normalized_characters": 17016
+    },
+    {
+      "page": 54,
+      "volume": "III",
+      "chapter": "XVIII",
+      "heading_line": 15992,
+      "last_line_before_boundary": 16399,
+      "normalized_characters": 20138
+    },
+    {
+      "page": 55,
+      "volume": "III",
+      "chapter": "XIX",
+      "heading_line": 16400,
+      "last_line_before_boundary": 16524,
+      "normalized_characters": 6980
+    }
+  ]
+}

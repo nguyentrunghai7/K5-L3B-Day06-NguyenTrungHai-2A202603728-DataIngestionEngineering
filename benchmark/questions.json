@@ -1,0 +1,206 @@
+[
+  {
+    "id": "Q01",
+    "split": "dev",
+    "question": "How old was Emma Woodhouse at the beginning of the novel?",
+    "expected_answer": "Nearly twenty-one.",
+    "gold_source_id": "pg158",
+    "gold_page": 1,
+    "evidence_quote": "lived nearly twenty-one years in the world"
+  },
+  {
+    "id": "Q02",
+    "split": "dev",
+    "question": "How many years did Miss Taylor spend with the Woodhouse family?",
+    "expected_answer": "Sixteen years.",
+    "gold_source_id": "pg158",
+    "gold_page": 1,
+    "evidence_quote": "Sixteen years had Miss Taylor been in Mr. Woodhouse’s family"
+  },
+  {
+    "id": "Q03",
+    "split": "dev",
+    "question": "What service did Mr. Weston enter?",
+    "expected_answer": "His county militia.",
+    "gold_source_id": "pg158",
+    "gold_page": 2,
+    "evidence_quote": "by entering into the militia of his county"
+  },
+  {
+    "id": "Q04",
+    "split": "dev",
+    "question": "What kinds of occasions made it difficult for Mr. Woodhouse to socialize?",
+    "expected_answer": "Late hours and large dinner parties.",
+    "gold_source_id": "pg158",
+    "gold_page": 3,
+    "evidence_quote": "his horror of late hours, and large dinner-parties"
+  },
+  {
+    "id": "Q05",
+    "split": "dev",
+    "question": "Who took the portrait to London for framing?",
+    "expected_answer": "Mr. Elton.",
+    "gold_source_id": "pg158",
+    "gold_page": 6,
+    "evidence_quote": "Mr. Elton was to take the drawing to London, chuse the frame"
+  },
+  {
+    "id": "Q06",
+    "split": "dev",
+    "question": "What did Mr. Martin communicate in his letter delivered in a parcel?",
+    "expected_answer": "A proposal of marriage.",
+    "gold_source_id": "pg158",
+    "gold_page": 7,
+    "evidence_quote": "this letter was from him, from Mr. Martin, and contained a direct proposal of marriage."
+  },
+  {
+    "id": "Q07",
+    "split": "dev",
+    "question": "What solution did Emma find for Mr. Elton's charade?",
+    "expected_answer": "Courtship.",
+    "gold_source_id": "pg158",
+    "gold_page": 9,
+    "evidence_quote": "charades. _Courtship_—a very good hint."
+  },
+  {
+    "id": "Q08",
+    "split": "dev",
+    "question": "Why was Emma going down Vicarage Lane in mid-December?",
+    "expected_answer": "To visit a poor sick family.",
+    "gold_source_id": "pg158",
+    "gold_page": 10,
+    "evidence_quote": "Emma had a charitable visit to pay to a poor sick family"
+  },
+  {
+    "id": "Q09",
+    "split": "dev",
+    "question": "How many children came to Hartfield with Isabella and John Knightley?",
+    "expected_answer": "Five.",
+    "gold_source_id": "pg158",
+    "gold_page": 11,
+    "evidence_quote": "Mr. and Mrs. John Knightley, their five children"
+  },
+  {
+    "id": "Q10",
+    "split": "dev",
+    "question": "What reason was given in Frank Churchill's letter for missing his planned visit?",
+    "expected_answer": "He could not be spared at the time.",
+    "gold_source_id": "pg158",
+    "gold_page": 18,
+    "evidence_quote": "Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston’s fears were justified in the arrival of a letter of excuse. For the present, he could not be spared",
+    "filter": {
+      "volume": "I"
+    },
+    "context": "Reader selected Volume I before asking."
+  },
+  {
+    "id": "Q11",
+    "split": "dev",
+    "question": "What family circumstances are given when the narrator introduces Jane Fairfax?",
+    "expected_answer": "She was an orphan and the only child of Mrs. Bates's youngest daughter.",
+    "gold_source_id": "pg158",
+    "gold_page": 20,
+    "evidence_quote": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter."
+  },
+  {
+    "id": "Q12",
+    "split": "dev",
+    "question": "Which city was Miss Hawkins's home, despite spending part of the winter elsewhere?",
+    "expected_answer": "Bristol.",
+    "gold_source_id": "pg158",
+    "gold_page": 22,
+    "evidence_quote": "Part of every winter she had been used to spend in Bath; but Bristol was her home"
+  },
+  {
+    "id": "Q13",
+    "split": "dev",
+    "question": "What was the apparent purpose of Frank Churchill's sudden trip to London?",
+    "expected_answer": "To get a haircut.",
+    "gold_source_id": "pg158",
+    "gold_page": 25,
+    "evidence_quote": "he was gone off to London, merely to have his hair cut.",
+    "filter": {
+      "volume": "II"
+    },
+    "context": "Reader selected Volume II before asking."
+  },
+  {
+    "id": "Q14",
+    "split": "dev",
+    "question": "Where had the unexpected pianoforte been sent from?",
+    "expected_answer": "Broadwood's.",
+    "gold_source_id": "pg158",
+    "gold_page": 26,
+    "evidence_quote": "this pianoforte had arrived from Broadwood’s the day before",
+    "filter": {
+      "volume": "II"
+    },
+    "context": "Reader selected Volume II before asking."
+  },
+  {
+    "id": "Q15",
+    "split": "dev",
+    "question": "Whose spectacles was Frank Churchill working on when the visitors came in?",
+    "expected_answer": "Mrs. Bates's.",
+    "gold_source_id": "pg158",
+    "gold_page": 28,
+    "evidence_quote": "Mrs. Bates, deprived of her usual employment, slumbering on one side of the fire, Frank Churchill, at a table near her, most deedily occupied about her spectacles"
+  },
+  {
+    "id": "Q16",
+    "split": "test",
+    "question": "Where did the party go on the day described as fine for their outing?",
+    "expected_answer": "Box Hill.",
+    "gold_source_id": "pg158",
+    "gold_page": 43,
+    "evidence_quote": "They had a very fine day for Box Hill",
+    "filter": {
+      "volume": "III"
+    },
+    "context": "Reader selected Volume III before asking."
+  },
+  {
+    "id": "Q17",
+    "split": "test",
+    "question": "Which two people had been secretly engaged for some time?",
+    "expected_answer": "Jane Fairfax and Frank Churchill.",
+    "gold_source_id": "pg158",
+    "gold_page": 47,
+    "evidence_quote": "Jane Fairfax and Mr. Frank Churchill are to be married, and that they have been privately engaged to one another this long while.",
+    "filter": {
+      "volume": "III"
+    },
+    "context": "Reader selected Volume III before asking."
+  },
+  {
+    "id": "Q18",
+    "split": "test",
+    "question": "For whose children had Jane Fairfax accepted a position as governess?",
+    "expected_answer": "Mrs. Smallridge's children.",
+    "gold_source_id": "pg158",
+    "gold_page": 51,
+    "evidence_quote": "She had engaged to go as governess to Mrs. Smallridge’s children",
+    "filter": {
+      "volume": "III"
+    },
+    "context": "Reader selected Volume III before asking."
+  },
+  {
+    "id": "Q19",
+    "split": "test",
+    "question": "Whose safe recovery became a reason for her friends to rejoice?",
+    "expected_answer": "Mrs. Weston's.",
+    "gold_source_id": "pg158",
+    "gold_page": 53,
+    "evidence_quote": "Mrs. Weston’s friends were all made happy by her safety"
+  },
+  {
+    "id": "Q20",
+    "split": "test",
+    "question": "Which animals were stolen from Mrs. Weston's poultry house?",
+    "expected_answer": "Turkeys.",
+    "gold_source_id": "pg158",
+    "gold_page": 55,
+    "evidence_quote": "Mrs. Weston’s poultry-house was robbed one night of all her turkeys"
+  }
+]

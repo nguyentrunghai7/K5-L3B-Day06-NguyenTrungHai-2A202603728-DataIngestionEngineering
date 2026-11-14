@@ -1,0 +1,3866 @@
+[
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 12.049,
+    "benchmark": {
+      "id": "Q01",
+      "split": "dev",
+      "question": "How old was Emma Woodhouse at the beginning of the novel?",
+      "expected_answer": "Nearly twenty-one.",
+      "gold_source_id": "pg158",
+      "gold_page": 1,
+      "evidence_quote": "lived nearly twenty-one years in the world"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:1:0:500",
+        "text": "Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.\n\nShe was the youngest of the two daughters of a most affectionate, indulgent father; and had, in consequence of her sister’s marriage, been mistress of his house from a very early period. Her mother had died too long ago for her to have more than an indistinct",
+        "score": 0.6851834058761597,
+        "metadata": {
+          "page": 1,
+          "end": 500,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "chapter": "I",
+          "volume": "I",
+          "start": 0
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:42:20250:20750",
+        "text": "begun, however, Emma walked into the hall for the sake of a few moments’ free observation of the entrance and ground-plot of the house—and was hardly there, when Jane Fairfax appeared, coming quickly in from the garden, and with a look of escape.—Little expecting to meet Miss Woodhouse so soon, there was a start at first; but Miss Woodhouse was the very person she was in quest of.\n\n“Will you be so kind,” said she, “when I am missed, as to say that I am gone home?—I am going this moment.—My aunt ",
+        "score": 0.6578447222709656,
+        "metadata": {
+          "end": 20750,
+          "chapter": "VI",
+          "start": 20250,
+          "page": 42,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "volume": "III"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:5:3150:3650",
+        "text": "since she was twelve, Emma has been mistress of the house and of you all. In her mother she lost the only person able to cope with her. She inherits her mother’s talents, and must have been under subjection to her.”\n\n“I should have been sorry, Mr. Knightley, to be dependent on _your_ recommendation, had I quitted Mr. Woodhouse’s family and wanted another situation; I do not think you would have spoken a good word for me to any body. I am sure you always thought me unfit for the office I held.”\n\n",
+        "score": 0.6505604386329651,
+        "metadata": {
+          "end": 3650,
+          "chapter": "V",
+          "volume": "I",
+          "start": 3150,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 5
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.064,
+    "benchmark": {
+      "id": "Q02",
+      "split": "dev",
+      "question": "How many years did Miss Taylor spend with the Woodhouse family?",
+      "expected_answer": "Sixteen years.",
+      "gold_source_id": "pg158",
+      "gold_page": 1,
+      "evidence_quote": "Sixteen years had Miss Taylor been in Mr. Woodhouse’s family"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:1:450:950",
+        "text": "o long ago for her to have more than an indistinct remembrance of her caresses; and her place had been supplied by an excellent woman as governess, who had fallen little short of a mother in affection.\n\nSixteen years had Miss Taylor been in Mr. Woodhouse’s family, less as a governess than a friend, very fond of both daughters, but particularly of Emma. Between _them_ it was more the intimacy of sisters. Even before Miss Taylor had ceased to hold the nominal office of governess, the mildness of h",
+        "score": 0.6856784820556641,
+        "metadata": {
+          "start": 450,
+          "document_id": "pg158",
+          "chapter": "I",
+          "end": 950,
+          "page": 1,
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:1:0:500",
+        "text": "Emma Woodhouse, handsome, clever, and rich, with a comfortable home and happy disposition, seemed to unite some of the best blessings of existence; and had lived nearly twenty-one years in the world with very little to distress or vex her.\n\nShe was the youngest of the two daughters of a most affectionate, indulgent father; and had, in consequence of her sister’s marriage, been mistress of his house from a very early period. Her mother had died too long ago for her to have more than an indistinct",
+        "score": 0.6613456010818481,
+        "metadata": {
+          "volume": "I",
+          "page": 1,
+          "end": 500,
+          "chapter": "I",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 0
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:1:3600:4100",
+        "text": "Mrs. Weston, only half a mile from them, and a Miss Taylor in the house; and with all her advantages, natural and domestic, she was now in great danger of suffering from intellectual solitude. She dearly loved her father, but he was no companion for her. He could not meet her in conversation, rational or playful.\n\nThe evil of the actual disparity in their ages (and Mr. Woodhouse had not married early) was much increased by his constitution and habits; for having been a valetudinarian all his lif",
+        "score": 0.6360422372817993,
+        "metadata": {
+          "volume": "I",
+          "end": 4100,
+          "chapter": "I",
+          "document_id": "pg158",
+          "start": 3600,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 1
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 4.047,
+    "benchmark": {
+      "id": "Q03",
+      "split": "dev",
+      "question": "What service did Mr. Weston enter?",
+      "expected_answer": "His county militia.",
+      "gold_source_id": "pg158",
+      "gold_page": 2,
+      "evidence_quote": "by entering into the militia of his county"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:2:0:500",
+        "text": "Mr. Weston was a native of Highbury, and born of a respectable family, which for the last two or three generations had been rising into gentility and property. He had received a good education, but, on succeeding early in life to a small independence, had become indisposed for any of the more homely pursuits in which his brothers were engaged, and had satisfied an active, cheerful mind and social temper by entering into the militia of his county, then embodied.\n\nCaptain Weston was a general favo",
+        "score": 0.743075430393219,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 500,
+          "volume": "I",
+          "document_id": "pg158",
+          "start": 0,
+          "page": 2,
+          "chapter": "II"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:30:8550:9050",
+        "text": "trial. Mr. Weston, always alert when business was to be done, and as incapable of procrastinating any evil that was inevitable, as of foreseeing any that was doubtful, said, “It was time to go;” and the young man, though he might and did sigh, could not but agree, to take leave.\n\n“I shall hear about you all,” said he; “that is my chief consolation. I shall hear of every thing that is going on among you. I have engaged Mrs. Weston to correspond with me. She has been so kind as to promise it. Oh! ",
+        "score": 0.7155657410621643,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "page": 30,
+          "end": 9050,
+          "chapter": "XII",
+          "start": 8550,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:5850:6350",
+        "text": "s Bates returned the visit. Now was the time for Mr. Frank Churchill to come among them; and the hope strengthened when it was understood that he had written to his new mother on the occasion. For a few days, every morning visit in Highbury included some mention of the handsome letter Mrs. Weston had received. “I suppose you have heard of the handsome letter Mr. Frank Churchill has written to Mrs. Weston? I understand it was a very handsome letter, indeed. Mr. Woodhouse told me of it. Mr. Woodho",
+        "score": 0.6800002455711365,
+        "metadata": {
+          "start": 5850,
+          "chapter": "II",
+          "volume": "I",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 2,
+          "end": 6350
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 3.498,
+    "benchmark": {
+      "id": "Q04",
+      "split": "dev",
+      "question": "What kinds of occasions made it difficult for Mr. Woodhouse to socialize?",
+      "expected_answer": "Late hours and large dinner parties.",
+      "gold_source_id": "pg158",
+      "gold_page": 3,
+      "evidence_quote": "his horror of late hours, and large dinner-parties"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:3:0:500",
+        "text": "Mr. Woodhouse was fond of society in his own way. He liked very much to have his friends come and see him; and from various united causes, from his long residence at Hartfield, and his good nature, from his fortune, his house, and his daughter, he could command the visits of his own little circle, in a great measure, as he liked. He had not much intercourse with any families beyond that circle; his horror of late hours, and large dinner-parties, made him unfit for any acquaintance but such as wo",
+        "score": 0.7638921737670898,
+        "metadata": {
+          "volume": "I",
+          "end": 500,
+          "page": 3,
+          "start": 0,
+          "chapter": "III",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:11:4500:5000",
+        "text": "e her regardless of that greatest fault of all in her eyes which he sometimes fell into, the want of respectful forbearance towards her father. There he had not always the patience that could have been wished. Mr. Woodhouse’s peculiarities and fidgetiness were sometimes provoking him to a rational remonstrance or sharp retort equally ill-bestowed. It did not often happen; for Mr. John Knightley had really a great regard for his father-in-law, and generally a strong sense of what was due to him; ",
+        "score": 0.72135329246521,
+        "metadata": {
+          "start": 4500,
+          "chapter": "XI",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "volume": "I",
+          "end": 5000,
+          "page": 11
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:41:16200:16516",
+        "text": "seful, and his feelings were too much irritated for talking. That he might not be irritated into an absolute fever, by the fire which Mr. Woodhouse’s tender habits required almost every evening throughout the year, he soon afterwards took a hasty leave, and walked home to the coolness and solitude of Donwell Abbey.",
+        "score": 0.691811203956604,
+        "metadata": {
+          "page": 41,
+          "volume": "III",
+          "chapter": "V",
+          "start": 16200,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 16516
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.36,
+    "benchmark": {
+      "id": "Q05",
+      "split": "dev",
+      "question": "Who took the portrait to London for framing?",
+      "expected_answer": "Mr. Elton.",
+      "gold_source_id": "pg158",
+      "gold_page": 6,
+      "evidence_quote": "Mr. Elton was to take the drawing to London, chuse the frame"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:6:13050:13550",
+        "text": "! Any other situation would have been much less in character. The naïveté of Miss Smith’s manners—and altogether—Oh, it is most admirable! I cannot keep my eyes from it. I never saw such a likeness.”\n\nThe next thing wanted was to get the picture framed; and here were a few difficulties. It must be done directly; it must be done in London; the order must go through the hands of some intelligent person whose taste could be depended on; and Isabella, the usual doer of all commissions, must not be a",
+        "score": 0.7250674962997437,
+        "metadata": {
+          "volume": "I",
+          "start": 13050,
+          "end": 13550,
+          "page": 6,
+          "chapter": "VI",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:6:4050:4550",
+        "text": "you observe her manner of answering me? How completely it meant, ‘why should my picture be drawn?’”\n\n“Oh! yes, I observed it, I assure you. It was not lost on me. But still I cannot imagine she would not be persuaded.”\n\nHarriet was soon back again, and the proposal almost immediately made; and she had no scruples which could stand many minutes against the earnest pressing of both the others. Emma wished to go to work directly, and therefore produced the portfolio containing her various attempts ",
+        "score": 0.6719733476638794,
+        "metadata": {
+          "document_id": "pg158",
+          "start": 4050,
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 6,
+          "end": 4550,
+          "chapter": "VI"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:6:2700:3200",
+        "text": "l. But from one cause or another, I gave it up in disgust. But really, I could almost venture, if Harriet would sit to me. It would be such a delight to have her picture!”\n\n“Let me entreat you,” cried Mr. Elton; “it would indeed be a delight! Let me entreat you, Miss Woodhouse, to exercise so charming a talent in favour of your friend. I know what your drawings are. How could you suppose me ignorant? Is not this room rich in specimens of your landscapes and flowers; and has not Mrs. Weston some ",
+        "score": 0.6447331309318542,
+        "metadata": {
+          "volume": "I",
+          "page": 6,
+          "end": 3200,
+          "start": 2700,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "VI",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.546,
+    "benchmark": {
+      "id": "Q06",
+      "split": "dev",
+      "question": "What did Mr. Martin communicate in his letter delivered in a parcel?",
+      "expected_answer": "A proposal of marriage.",
+      "gold_source_id": "pg158",
+      "gold_page": 7,
+      "evidence_quote": "this letter was from him, from Mr. Martin, and contained a direct proposal of marriage."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:46:11250:11750",
+        "text": "e spoke in a manner which seemed to promise me many particulars that could not be given now. Let us wait, therefore, for this letter. It may bring many extenuations. It may make many things intelligible and excusable which now are not to be understood. Don’t let us be severe, don’t let us be in a hurry to condemn him. Let us have patience. I must love him; and now that I am satisfied on one point, the one material point, I am sincerely anxious for its all turning out well, and ready to hope that",
+        "score": 0.6946513652801514,
+        "metadata": {
+          "chapter": "X",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 11750,
+          "document_id": "pg158",
+          "page": 46,
+          "start": 11250,
+          "volume": "III"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:7:450:950",
+        "text": " as soon as she got back to Mrs. Goddard’s, that Mr. Martin had been there an hour before, and finding she was not at home, nor particularly expected, had left a little parcel for her from one of his sisters, and gone away; and on opening this parcel, she had actually found, besides the two songs which she had lent Elizabeth to copy, a letter to herself; and this letter was from him, from Mr. Martin, and contained a direct proposal of marriage. “Who could have thought it? She was so surprized sh",
+        "score": 0.6849675178527832,
+        "metadata": {
+          "start": 450,
+          "document_id": "pg158",
+          "page": 7,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "VII",
+          "end": 950,
+          "volume": "I"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:15:11700:12200",
+        "text": "am very much astonished, Mr. Elton. This to _me_! you forget yourself—you take me for my friend—any message to Miss Smith I shall be happy to deliver; but no more of this to _me_, if you please.”\n\n“Miss Smith!—message to Miss Smith!—What could she possibly mean!”—And he repeated her words with such assurance of accent, such boastful pretence of amazement, that she could not help replying with quickness,\n\n“Mr. Elton, this is the most extraordinary conduct! and I can account for it only in one way",
+        "score": 0.6728165149688721,
+        "metadata": {
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 12200,
+          "volume": "I",
+          "start": 11700,
+          "chapter": "XV",
+          "page": 15
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 3.033,
+    "benchmark": {
+      "id": "Q07",
+      "split": "dev",
+      "question": "What solution did Emma find for Mr. Elton's charade?",
+      "expected_answer": "Courtship.",
+      "gold_source_id": "pg158",
+      "gold_page": 9,
+      "evidence_quote": "charades. _Courtship_—a very good hint."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:17:6300:6687",
+        "text": " Mr. Elton being the adoration of all the teachers and great girls in the school; and it must be at Hartfield only that she could have any chance of hearing him spoken of with cooling moderation or repellent truth. Where the wound had been given, there must the cure be found if anywhere; and Emma felt that, till she saw her in the way of cure, there could be no true peace for herself.",
+        "score": 0.7581456899642944,
+        "metadata": {
+          "end": 6687,
+          "document_id": "pg158",
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XVII",
+          "page": 17,
+          "start": 6300
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:19:0:500",
+        "text": "Emma and Harriet had been walking together one morning, and, in Emma’s opinion, had been talking enough of Mr. Elton for that day. She could not think that Harriet’s solace or her own sins required more; and she was therefore industriously getting rid of the subject as they returned;—but it burst out again when she thought she had succeeded, and after speaking some time of what the poor must suffer in winter, and receiving no other answer than a very plaintive—“Mr. Elton is so good to the poor!”",
+        "score": 0.7417333722114563,
+        "metadata": {
+          "start": 0,
+          "page": 19,
+          "chapter": "I",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 500,
+          "volume": "II"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:17:3150:3650",
+        "text": "bore the intelligence very well—blaming nobody—and in every thing testifying such an ingenuousness of disposition and lowly opinion of herself, as must appear with particular advantage at that moment to her friend.\n\nEmma was in the humour to value simplicity and modesty to the utmost; and all that was amiable, all that ought to be attaching, seemed on Harriet’s side, not her own. Harriet did not consider herself as having any thing to complain of. The affection of such a man as Mr. Elton would h",
+        "score": 0.731631875038147,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 3150,
+          "document_id": "pg158",
+          "volume": "I",
+          "end": 3650,
+          "page": 17,
+          "chapter": "XVII"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 3.89,
+    "benchmark": {
+      "id": "Q08",
+      "split": "dev",
+      "question": "Why was Emma going down Vicarage Lane in mid-December?",
+      "expected_answer": "To visit a poor sick family.",
+      "gold_source_id": "pg158",
+      "gold_page": 10,
+      "evidence_quote": "Emma had a charitable visit to pay to a poor sick family"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:10:0:500",
+        "text": "Though now the middle of December, there had yet been no weather to prevent the young ladies from tolerably regular exercise; and on the morrow, Emma had a charitable visit to pay to a poor sick family, who lived a little way out of Highbury.\n\nTheir road to this detached cottage was down Vicarage Lane, a lane leading at right angles from the broad, though irregular, main street of the place; and, as may be inferred, containing the blessed abode of Mr. Elton. A few inferior dwellings were first t",
+        "score": 0.7674623727798462,
+        "metadata": {
+          "start": 0,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 10,
+          "chapter": "X",
+          "end": 500,
+          "volume": "I",
+          "document_id": "pg158"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:15:17100:17600",
+        "text": "forward emotions left no room for the little zigzags of embarrassment. Without knowing when the carriage turned into Vicarage Lane, or when it stopped, they found themselves, all at once, at the door of his house; and he was out before another syllable passed.—Emma then felt it indispensable to wish him a good night. The compliment was just returned, coldly and proudly; and, under indescribable irritation of spirits, she was then conveyed to Hartfield.\n\nThere she was welcomed, with the utmost de",
+        "score": 0.6832083463668823,
+        "metadata": {
+          "page": 15,
+          "volume": "I",
+          "end": 17600,
+          "chapter": "XV",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 17100,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:13:1350:1850",
+        "text": "lted in every thing.\n\nThe evening before this great event (for it was a very great event that Mr. Woodhouse should dine out, on the 24th of December) had been spent by Harriet at Hartfield, and she had gone home so much indisposed with a cold, that, but for her own earnest wish of being nursed by Mrs. Goddard, Emma could not have allowed her to leave the house. Emma called on her the next day, and found her doom already signed with regard to Randalls. She was very feverish and had a bad sore thr",
+        "score": 0.6668131947517395,
+        "metadata": {
+          "chapter": "XIII",
+          "page": 13,
+          "document_id": "pg158",
+          "end": 1850,
+          "start": 1350,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.483,
+    "benchmark": {
+      "id": "Q09",
+      "split": "dev",
+      "question": "How many children came to Hartfield with Isabella and John Knightley?",
+      "expected_answer": "Five.",
+      "gold_source_id": "pg158",
+      "gold_page": 11,
+      "evidence_quote": "Mr. and Mrs. John Knightley, their five children"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:13:0:500",
+        "text": "There could hardly be a happier creature in the world than Mrs. John Knightley, in this short visit to Hartfield, going about every morning among her old acquaintance with her five children, and talking over what she had done every evening with her father and sister. She had nothing to wish otherwise, but that the days did not pass so swiftly. It was a delightful visit;—perfect, in being much too short.\n\nIn general their evenings were less engaged with friends than their mornings; but one comple",
+        "score": 0.6901232004165649,
+        "metadata": {
+          "page": 13,
+          "start": 0,
+          "end": 500,
+          "chapter": "XIII",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:17:0:500",
+        "text": "Mr. and Mrs. John Knightley were not detained long at Hartfield. The weather soon improved enough for those to move who must move; and Mr. Woodhouse having, as usual, tried to persuade his daughter to stay behind with all her children, was obliged to see the whole party set off, and return to his lamentations over the destiny of poor Isabella;—which poor Isabella, passing her life with those she doated on, full of their merits, blind to their faults, and always innocently busy, might have been a",
+        "score": 0.6543680429458618,
+        "metadata": {
+          "end": 500,
+          "volume": "I",
+          "page": 17,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 0,
+          "document_id": "pg158",
+          "chapter": "XVII"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:36:14400:14900",
+        "text": "he Coles—and having a ball talked of, which never took place. I can understand you—(nodding at Mr. John Knightley)—your good fortune in meeting with so many of your friends at once here, delights you too much to pass unnoticed. But you, (turning to Mr. Knightley,) who know how very, very seldom I am ever two hours from Hartfield, why you should foresee such a series of dissipation for me, I cannot imagine. And as to my dear little boys, I must say, that if Aunt Emma has not time for them, I do n",
+        "score": 0.6388645768165588,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "end": 14900,
+          "start": 14400,
+          "page": 36,
+          "chapter": "XVIII",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.104,
+    "benchmark": {
+      "id": "Q10",
+      "split": "dev",
+      "question": "What reason was given in Frank Churchill's letter for missing his planned visit?",
+      "expected_answer": "He could not be spared at the time.",
+      "gold_source_id": "pg158",
+      "gold_page": 18,
+      "evidence_quote": "Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston’s fears were justified in the arrival of a letter of excuse. For the present, he could not be spared",
+      "filter": {
+        "volume": "I"
+      },
+      "context": "Reader selected Volume I before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:18:0:500",
+        "text": "Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston’s fears were justified in the arrival of a letter of excuse. For the present, he could not be spared, to his “very great mortification and regret; but still he looked forward with the hope of coming to Randalls at no distant period.”\n\nMrs. Weston was exceedingly disappointed—much more disappointed, in fact, than her husband, though her dependence on seeing the young man had been so much more sober: but a sanguine tem",
+        "score": 0.7459471225738525,
+        "metadata": {
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XVIII",
+          "start": 0,
+          "page": 18,
+          "end": 500,
+          "volume": "I"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:26:17550:18050",
+        "text": "e sort; and could make out from his answers that, as far as Enscombe was concerned, there was very little going on, that their visitings were among a range of great families, none very near; and that even when days were fixed, and invitations accepted, it was an even chance that Mrs. Churchill were not in health and spirits for going; that they made a point of visiting no fresh person; and that, though he had his separate engagements, it was not without difficulty, without considerable address _",
+        "score": 0.7231919169425964,
+        "metadata": {
+          "chapter": "VIII",
+          "page": 26,
+          "end": 18050,
+          "volume": "II",
+          "start": 17550,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:30:9000:9500",
+        "text": "th me. She has been so kind as to promise it. Oh! the blessing of a female correspondent, when one is really interested in the absent!—she will tell me every thing. In her letters I shall be at dear Highbury again.”\n\nA very friendly shake of the hand, a very earnest “Good-bye,” closed the speech, and the door had soon shut out Frank Churchill. Short had been the notice—short their meeting; he was gone; and Emma felt so sorry to part, and foresaw so great a loss to their little society from his a",
+        "score": 0.7202157378196716,
+        "metadata": {
+          "end": 9500,
+          "start": 9000,
+          "volume": "II",
+          "page": 30,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XII",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.668,
+    "benchmark": {
+      "id": "Q11",
+      "split": "dev",
+      "question": "What family circumstances are given when the narrator introduces Jane Fairfax?",
+      "expected_answer": "She was an orphan and the only child of Mrs. Bates's youngest daughter.",
+      "gold_source_id": "pg158",
+      "gold_page": 20,
+      "evidence_quote": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:20:0:500",
+        "text": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter.\n\nThe marriage of Lieut. Fairfax of the ——regiment of infantry, and Miss Jane Bates, had had its day of fame and pleasure, hope and interest; but nothing now remained of it, save the melancholy remembrance of him dying in action abroad—of his widow sinking under consumption and grief soon afterwards—and this girl.\n\nBy birth she belonged to Highbury: and when at three years old, on losing her mother, she became the prope",
+        "score": 0.6974120140075684,
+        "metadata": {
+          "volume": "II",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 500,
+          "start": 0,
+          "document_id": "pg158",
+          "chapter": "II",
+          "page": 20
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:47:1800:2300",
+        "text": " Jane Fairfax, she might at least relieve her feelings from any present solicitude on her account. Harriet would be anxiety enough; she need no longer be unhappy about Jane, whose troubles and whose ill-health having, of course, the same origin, must be equally under cure.—Her days of insignificance and evil were over.—She would soon be well, and happy, and prosperous.—Emma could now imagine why her own attentions had been slighted. This discovery laid many smaller matters open. No doubt it had ",
+        "score": 0.6645423769950867,
+        "metadata": {
+          "chapter": "XI",
+          "volume": "III",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 47,
+          "start": 1800,
+          "document_id": "pg158",
+          "end": 2300
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:33:4500:5000",
+        "text": "for it. I must confess it is a recommendation to me. I am a great advocate for timidity—and I am sure one does not often meet with it.—But in those who are at all inferior, it is extremely prepossessing. Oh! I assure you, Jane Fairfax is a very delightful character, and interests me more than I can express.”\n\n“You appear to feel a great deal—but I am not aware how you or any of Miss Fairfax’s acquaintance here, any of those who have known her longer than yourself, can shew her any other attentio",
+        "score": 0.6631381511688232,
+        "metadata": {
+          "document_id": "pg158",
+          "start": 4500,
+          "volume": "II",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 33,
+          "chapter": "XV",
+          "end": 5000
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.281,
+    "benchmark": {
+      "id": "Q12",
+      "split": "dev",
+      "question": "Which city was Miss Hawkins's home, despite spending part of the winter elsewhere?",
+      "expected_answer": "Bristol.",
+      "gold_source_id": "pg158",
+      "gold_page": 22,
+      "evidence_quote": "Part of every winter she had been used to spend in Bath; but Bristol was her home"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:10:0:500",
+        "text": "Though now the middle of December, there had yet been no weather to prevent the young ladies from tolerably regular exercise; and on the morrow, Emma had a charitable visit to pay to a poor sick family, who lived a little way out of Highbury.\n\nTheir road to this detached cottage was down Vicarage Lane, a lane leading at right angles from the broad, though irregular, main street of the place; and, as may be inferred, containing the blessed abode of Mr. Elton. A few inferior dwellings were first t",
+        "score": 0.6152471303939819,
+        "metadata": {
+          "volume": "I",
+          "page": 10,
+          "chapter": "X",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 0,
+          "end": 500
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:48:14400:14900",
+        "text": "holy fancy. Alas! such delightful proofs of Hartfield’s attraction, as those sort of visits conveyed, might shortly be over. The picture which she had then drawn of the privations of the approaching winter, had proved erroneous; no friends had deserted them, no pleasures had been lost.—But her present forebodings she feared would experience no similar contradiction. The prospect before her now, was threatening to a degree that could not be entirely dispelled—that might not be even partially brig",
+        "score": 0.5994538068771362,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "end": 14900,
+          "chapter": "XII",
+          "page": 48,
+          "start": 14400,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:1:4500:5000",
+        "text": " and November evening must be struggled through at Hartfield, before Christmas brought the next visit from Isabella and her husband, and their little children, to fill the house, and give her pleasant society again.\n\nHighbury, the large and populous village, almost amounting to a town, to which Hartfield, in spite of its separate lawn, and shrubberies, and name, did really belong, afforded her no equals. The Woodhouses were first in consequence there. All looked up to them. She had many acquaint",
+        "score": 0.595797061920166,
+        "metadata": {
+          "page": 1,
+          "start": 4500,
+          "volume": "I",
+          "end": 5000,
+          "chapter": "I",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.629,
+    "benchmark": {
+      "id": "Q13",
+      "split": "dev",
+      "question": "What was the apparent purpose of Frank Churchill's sudden trip to London?",
+      "expected_answer": "To get a haircut.",
+      "gold_source_id": "pg158",
+      "gold_page": 25,
+      "evidence_quote": "he was gone off to London, merely to have his hair cut.",
+      "filter": {
+        "volume": "II"
+      },
+      "context": "Reader selected Volume II before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:25:0:500",
+        "text": "Emma’s very good opinion of Frank Churchill was a little shaken the following day, by hearing that he was gone off to London, merely to have his hair cut. A sudden freak seemed to have seized him at breakfast, and he had sent for a chaise and set off, intending to return to dinner, but with no more important view that appeared than having his hair cut. There was certainly no harm in his travelling sixteen miles twice over on such an errand; but there was an air of foppery and nonsense in it whic",
+        "score": 0.7190166115760803,
+        "metadata": {
+          "end": 500,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "start": 0,
+          "page": 25,
+          "chapter": "VII",
+          "document_id": "pg158"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:37:5850:6350",
+        "text": " in London; he might as well be at Enscombe; but Richmond was the very distance for easy intercourse. Better than nearer!\n\nOne good thing was immediately brought to a certainty by this removal,—the ball at the Crown. It had not been forgotten before, but it had been soon acknowledged vain to attempt to fix a day. Now, however, it was absolutely to be; every preparation was resumed, and very soon after the Churchills had removed to Richmond, a few lines from Frank, to say that his aunt felt alrea",
+        "score": 0.7023470401763916,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "chapter": "I",
+          "start": 5850,
+          "document_id": "pg158",
+          "end": 6350,
+          "page": 37
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:36:7200:7700",
+        "text": "ir.”\n\nShe was stopped by a slight fit of coughing, and Mr. Weston instantly seized the opportunity of going on.\n\n“You were mentioning May. May is the very month which Mrs. Churchill is ordered, or has ordered herself, to spend in some warmer place than Enscombe—in short, to spend in London; so that we have the agreeable prospect of frequent visits from Frank the whole spring—precisely the season of the year which one should have chosen for it: days almost at the longest; weather genial and pleas",
+        "score": 0.687257707118988,
+        "metadata": {
+          "page": 36,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 7200,
+          "chapter": "XVIII",
+          "document_id": "pg158",
+          "volume": "II",
+          "end": 7700
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 3.202,
+    "benchmark": {
+      "id": "Q14",
+      "split": "dev",
+      "question": "Where had the unexpected pianoforte been sent from?",
+      "expected_answer": "Broadwood's.",
+      "gold_source_id": "pg158",
+      "gold_page": 26,
+      "evidence_quote": "this pianoforte had arrived from Broadwood’s the day before",
+      "filter": {
+        "volume": "II"
+      },
+      "context": "Reader selected Volume II before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:51:4050:4550",
+        "text": "did so, but very soon stopt again to say, “the pianoforte! Ah! That was the act of a very, very young man, one too young to consider whether the inconvenience of it might not very much exceed the pleasure. A boyish scheme, indeed!—I cannot comprehend a man’s wishing to give a woman any proof of affection which he knows she would rather dispense with; and he did know that she would have prevented the instrument’s coming if she could.”\n\nAfter this, he made some progress without any pause. Frank Ch",
+        "score": 0.7329771518707275,
+        "metadata": {
+          "volume": "III",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "chapter": "XV",
+          "end": 4550,
+          "start": 4050,
+          "page": 51
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:26:12150:12650",
+        "text": " as formal and as orderly as the others; but when the table was again safely covered, when every corner dish was placed exactly right, and occupation and ease were generally restored, Emma said,\n\n“The arrival of this pianoforte is decisive with me. I wanted to know a little more, and this tells me quite enough. Depend upon it, we shall soon hear that it is a present from Mr. and Mrs. Dixon.”\n\n“And if the Dixons should absolutely deny all knowledge of it we must conclude it to come from the Campb",
+        "score": 0.6692786812782288,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 26,
+          "document_id": "pg158",
+          "end": 12650,
+          "chapter": "VIII",
+          "volume": "II",
+          "start": 12150
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:26:27450:27950",
+        "text": " her for ever. Oh! and I had almost forgotten one idea that occurred to me—this pianoforte that has been sent here by somebody—though we have all been so well satisfied to consider it a present from the Campbells, may it not be from Mr. Knightley? I cannot help suspecting him. I think he is just the person to do it, even without being in love.”\n\n“Then it can be no argument to prove that he is in love. But I do not think it is at all a likely thing for him to do. Mr. Knightley does nothing myster",
+        "score": 0.6610686779022217,
+        "metadata": {
+          "end": 27950,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "VIII",
+          "page": 26,
+          "volume": "II",
+          "start": 27450,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 3.023,
+    "benchmark": {
+      "id": "Q15",
+      "split": "dev",
+      "question": "Whose spectacles was Frank Churchill working on when the visitors came in?",
+      "expected_answer": "Mrs. Bates's.",
+      "gold_source_id": "pg158",
+      "gold_page": 28,
+      "evidence_quote": "Mrs. Bates, deprived of her usual employment, slumbering on one side of the fire, Frank Churchill, at a table near her, most deedily occupied about her spectacles"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:2:4950:5450",
+        "text": "at any caprice could be strong enough to affect one so dear, and, as he believed, so deservedly dear. He saw his son every year in London, and was proud of him; and his fond report of him as a very fine young man had made Highbury feel a sort of pride in him too. He was looked on as sufficiently belonging to the place to make his merits and prospects a kind of common concern.\n\nMr. Frank Churchill was one of the boasts of Highbury, and a lively curiosity to see him prevailed, though the complimen",
+        "score": 0.6238553524017334,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I",
+          "start": 4950,
+          "page": 2,
+          "end": 5450,
+          "chapter": "II",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:39:1800:2300",
+        "text": "two persons entered whom she had never less expected to see together—Frank Churchill, with Harriet leaning on his arm—actually Harriet!—A moment sufficed to convince her that something extraordinary had happened. Harriet looked white and frightened, and he was trying to cheer her.—The iron gates and the front-door were not twenty yards asunder;—they were all three soon in the hall, and Harriet immediately sinking into a chair fainted away.\n\nA young lady who faints, must be recovered; questions m",
+        "score": 0.6142371892929077,
+        "metadata": {
+          "chapter": "III",
+          "start": 1800,
+          "volume": "III",
+          "document_id": "pg158",
+          "page": 39,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 2300
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:29:450:950",
+        "text": "o dance again; and the last half-hour of an evening which Mr. Woodhouse was persuaded to spend with his daughter at Randalls, was passed by the two young people in schemes on the subject. Frank’s was the first idea; and his the greatest zeal in pursuing it; for the lady was the best judge of the difficulties, and the most solicitous for accommodation and appearance. But still she had inclination enough for shewing people again how delightfully Mr. Frank Churchill and Miss Woodhouse danced—for do",
+        "score": 0.6130821704864502,
+        "metadata": {
+          "document_id": "pg158",
+          "chapter": "XI",
+          "start": 450,
+          "end": 950,
+          "volume": "II",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 29
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.947,
+    "benchmark": {
+      "id": "Q01",
+      "split": "dev",
+      "question": "How old was Emma Woodhouse at the beginning of the novel?",
+      "expected_answer": "Nearly twenty-one.",
+      "gold_source_id": "pg158",
+      "gold_page": 1,
+      "evidence_quote": "lived nearly twenty-one years in the world"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:42:20489:20633",
+        "text": "escape.—Little expecting to meet Miss Woodhouse so soon, there was a start at first; but Miss Woodhouse was the very person she was in quest of.",
+        "score": 0.6457692384719849,
+        "metadata": {
+          "end": 20633,
+          "volume": "III",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "chapter": "VI",
+          "page": 42,
+          "start": 20489
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:12:12341:12734",
+        "text": "She would be such a delightful companion for Emma.”\n\nMr. Woodhouse agreed to it all, but added,\n\n“Our little friend Harriet Smith, however, is just such another pretty kind of young person. You will like Harriet. Emma could not have a better companion than Harriet.”\n\n“I am most happy to hear it—but only Jane Fairfax one knows to be so very accomplished and superior!—and exactly Emma’s age.”",
+        "score": 0.6359261274337769,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "end": 12734,
+          "volume": "I",
+          "start": 12341,
+          "page": 12,
+          "chapter": "XII"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:42:22153:22615",
+        "text": "Emma had not another word to oppose. She saw it all; and entering into her feelings, promoted her quitting the house immediately, and watched her safely off with the zeal of a friend. Her parting look was grateful—and her parting words, “Oh! Miss Woodhouse, the comfort of being sometimes alone!”—seemed to burst from an overcharged heart, and to describe somewhat of the continual endurance to be practised by her, even towards some of those who loved her best.",
+        "score": 0.6276953816413879,
+        "metadata": {
+          "document_id": "pg158",
+          "start": 22153,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "chapter": "VI",
+          "end": 22615,
+          "page": 42
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.864,
+    "benchmark": {
+      "id": "Q02",
+      "split": "dev",
+      "question": "How many years did Miss Taylor spend with the Woodhouse family?",
+      "expected_answer": "Sixteen years.",
+      "gold_source_id": "pg158",
+      "gold_page": 1,
+      "evidence_quote": "Sixteen years had Miss Taylor been in Mr. Woodhouse’s family"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:1:653:1153",
+        "text": "Sixteen years had Miss Taylor been in Mr. Woodhouse’s family, less as a governess than a friend, very fond of both daughters, but particularly of Emma. Between _them_ it was more the intimacy of sisters. Even before Miss Taylor had ceased to hold the nominal office of governess, the mildness of her temper had hardly allowed her to impose any restraint; and the shadow of authority being now long passed away, they had been living together as friend and friend very mutually attached, and Emma doing",
+        "score": 0.699013352394104,
+        "metadata": {
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 1,
+          "document_id": "pg158",
+          "start": 653,
+          "chapter": "I",
+          "end": 1153
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:2:8253:8387",
+        "text": "But never did she go without Mr. Woodhouse’s giving a gentle sigh, and saying, “Ah, poor Miss Taylor! She would be very glad to stay.”",
+        "score": 0.6631124019622803,
+        "metadata": {
+          "page": 2,
+          "start": 8253,
+          "document_id": "pg158",
+          "end": 8387,
+          "chapter": "II",
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:8389:8831",
+        "text": "There was no recovering Miss Taylor—nor much likelihood of ceasing to pity her; but a few weeks brought some alleviation to Mr. Woodhouse. The compliments of his neighbours were over; he was no longer teased by being wished joy of so sorrowful an event; and the wedding-cake, which had been a great distress to him, was all eat up. His own stomach could bear nothing rich, and he could never believe other people to be different from himself.",
+        "score": 0.6354643106460571,
+        "metadata": {
+          "page": 2,
+          "start": 8389,
+          "chapter": "II",
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 8831,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.232,
+    "benchmark": {
+      "id": "Q03",
+      "split": "dev",
+      "question": "What service did Mr. Weston enter?",
+      "expected_answer": "His county militia.",
+      "gold_source_id": "pg158",
+      "gold_page": 2,
+      "evidence_quote": "by entering into the militia of his county"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:23:14620:14895",
+        "text": "A reasonable visit paid, Mr. Weston began to move.—“He must be going. He had business at the Crown about his hay, and a great many errands for Mrs. Weston at Ford’s, but he need not hurry any body else.” His son, too well bred to hear the hint, rose immediately also, saying,",
+        "score": 0.724906325340271,
+        "metadata": {
+          "document_id": "pg158",
+          "page": 23,
+          "start": 14620,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "chapter": "V",
+          "end": 14895
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:0:465",
+        "text": "Mr. Weston was a native of Highbury, and born of a respectable family, which for the last two or three generations had been rising into gentility and property. He had received a good education, but, on succeeding early in life to a small independence, had become indisposed for any of the more homely pursuits in which his brothers were engaged, and had satisfied an active, cheerful mind and social temper by entering into the militia of his county, then embodied.",
+        "score": 0.7096699476242065,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I",
+          "page": 2,
+          "start": 0,
+          "end": 465,
+          "chapter": "II",
+          "document_id": "pg158"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:14:5691:6052",
+        "text": "“He has been wanting to come to us,” continued Mr. Weston, “ever since September: every letter has been full of it; but he cannot command his own time. He has those to please who must be pleased, and who (between ourselves) are sometimes to be pleased only by a good many sacrifices. But now I have no doubt of seeing him here about the second week in January.”",
+        "score": 0.7056872844696045,
+        "metadata": {
+          "end": 6052,
+          "start": 5691,
+          "volume": "I",
+          "document_id": "pg158",
+          "page": 14,
+          "chapter": "XIV",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.768,
+    "benchmark": {
+      "id": "Q04",
+      "split": "dev",
+      "question": "What kinds of occasions made it difficult for Mr. Woodhouse to socialize?",
+      "expected_answer": "Late hours and large dinner parties.",
+      "gold_source_id": "pg158",
+      "gold_page": 3,
+      "evidence_quote": "his horror of late hours, and large dinner-parties"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:11:4559:4882",
+        "text": "which he sometimes fell into, the want of respectful forbearance towards her father. There he had not always the patience that could have been wished. Mr. Woodhouse’s peculiarities and fidgetiness were sometimes provoking him to a rational remonstrance or sharp retort equally ill-bestowed. It did not often happen; for Mr.",
+        "score": 0.7567447423934937,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XI",
+          "document_id": "pg158",
+          "end": 4882,
+          "page": 11,
+          "volume": "I",
+          "start": 4559
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:3:8791:9181",
+        "text": "Upon such occasions poor Mr. Woodhouse’s feelings were in sad warfare. He loved to have the cloth laid, because it had been the fashion of his youth, but his conviction of suppers being very unwholesome made him rather sorry to see any thing put on it; and while his hospitality would have welcomed his visitors to every thing, his care for their health made him grieve that they would eat.",
+        "score": 0.7325915098190308,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "III",
+          "start": 8791,
+          "end": 9181,
+          "volume": "I",
+          "page": 3,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:15:16723:17170",
+        "text": "He was too angry to say another word; her manner too decided to invite supplication; and in this state of swelling resentment, and mutually deep mortification, they had to continue together a few minutes longer, for the fears of Mr. Woodhouse had confined them to a foot-pace. If there had not been so much anger, there would have been desperate awkwardness; but their straightforward emotions left no room for the little zigzags of embarrassment.",
+        "score": 0.7169128656387329,
+        "metadata": {
+          "end": 17170,
+          "volume": "I",
+          "page": 15,
+          "chapter": "XV",
+          "document_id": "pg158",
+          "start": 16723,
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.077,
+    "benchmark": {
+      "id": "Q05",
+      "split": "dev",
+      "question": "Who took the portrait to London for framing?",
+      "expected_answer": "Mr. Elton.",
+      "gold_source_id": "pg158",
+      "gold_page": 6,
+      "evidence_quote": "Mr. Elton was to take the drawing to London, chuse the frame"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:6:13251:13729",
+        "text": "The next thing wanted was to get the picture framed; and here were a few difficulties. It must be done directly; it must be done in London; the order must go through the hands of some intelligent person whose taste could be depended on; and Isabella, the usual doer of all commissions, must not be applied to, because it was December, and Mr. Woodhouse could not bear the idea of her stirring out of her house in the fogs of December. But no sooner was the distress known to Mr.",
+        "score": 0.7144955992698669,
+        "metadata": {
+          "page": 6,
+          "end": 13729,
+          "start": 13251,
+          "document_id": "pg158",
+          "volume": "I",
+          "chapter": "VI",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:6:4270:4705",
+        "text": "Harriet was soon back again, and the proposal almost immediately made; and she had no scruples which could stand many minutes against the earnest pressing of both the others. Emma wished to go to work directly, and therefore produced the portfolio containing her various attempts at portraits, for not one of them had ever been finished, that they might decide together on the best size for Harriet. Her many beginnings were displayed.",
+        "score": 0.6970033645629883,
+        "metadata": {
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I",
+          "chapter": "VI",
+          "end": 4705,
+          "page": 6,
+          "start": 4270
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:6:2372:2871",
+        "text": "“What an exquisite possession a good picture of her would be! I would give any money for it. I almost long to attempt her likeness myself. You do not know it I dare say, but two or three years ago I had a great passion for taking likenesses, and attempted several of my friends, and was thought to have a tolerable eye in general. But from one cause or another, I gave it up in disgust. But really, I could almost venture, if Harriet would sit to me. It would be such a delight to have her picture!”",
+        "score": 0.6683667898178101,
+        "metadata": {
+          "start": 2372,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 6,
+          "volume": "I",
+          "chapter": "VI",
+          "end": 2871,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.357,
+    "benchmark": {
+      "id": "Q06",
+      "split": "dev",
+      "question": "What did Mr. Martin communicate in his letter delivered in a parcel?",
+      "expected_answer": "A proposal of marriage.",
+      "gold_source_id": "pg158",
+      "gold_page": 7,
+      "evidence_quote": "this letter was from him, from Mr. Martin, and contained a direct proposal of marriage."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:51:6398:6874",
+        "text": "“I hope he does,” replied Mr. Knightley coolly, and resuming the letter. “‘Smallridge!’—What does this mean? What is all this?”\n\n“She had engaged to go as governess to Mrs. Smallridge’s children—a dear friend of Mrs. Elton’s—a neighbour of Maple Grove; and, by the bye, I wonder how Mrs. Elton bears the disappointment?”\n\n“Say nothing, my dear Emma, while you oblige me to read—not even of Mrs. Elton. Only one page more. I shall soon have done. What a letter the man writes!”",
+        "score": 0.6985190510749817,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "chapter": "XV",
+          "start": 6398,
+          "document_id": "pg158",
+          "page": 51,
+          "end": 6874
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:54:3829:4329",
+        "text": "This is all that I can relate of the how, where, and when. Your friend Harriet will make a much longer history when you see her.—She will give you all the minute particulars, which only woman’s language can make interesting.—In our communications we deal only in the great.—However, I must say, that Robert Martin’s heart seemed for _him_, and to _me_, very overflowing; and that he did mention, without its being much to the purpose, that on quitting their box at Astley’s, my brother took charge of",
+        "score": 0.6911699771881104,
+        "metadata": {
+          "document_id": "pg158",
+          "chapter": "XVIII",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 4329,
+          "start": 3829,
+          "page": 54,
+          "volume": "III"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:46:11141:11591",
+        "text": "“I am to hear from him soon,” continued Mrs. Weston. “He told me at parting, that he should soon write; and he spoke in a manner which seemed to promise me many particulars that could not be given now. Let us wait, therefore, for this letter. It may bring many extenuations. It may make many things intelligible and excusable which now are not to be understood. Don’t let us be severe, don’t let us be in a hurry to condemn him. Let us have patience.",
+        "score": 0.6828359365463257,
+        "metadata": {
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 11141,
+          "page": 46,
+          "end": 11591,
+          "chapter": "X",
+          "volume": "III"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.163,
+    "benchmark": {
+      "id": "Q07",
+      "split": "dev",
+      "question": "What solution did Emma find for Mr. Elton's charade?",
+      "expected_answer": "Courtship.",
+      "gold_source_id": "pg158",
+      "gold_page": 9,
+      "evidence_quote": "charades. _Courtship_—a very good hint."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:22:7174:7551",
+        "text": "Had it been allowable entertainment, had there been no pain to her friend, or reproach to herself, in the waverings of Harriet’s mind, Emma would have been amused by its variations. Sometimes Mr. Elton predominated, sometimes the Martins; and each was occasionally useful as a check to the other. Mr. Elton’s engagement had been the cure of the agitation of meeting Mr. Martin.",
+        "score": 0.7514389753341675,
+        "metadata": {
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 22,
+          "start": 7174,
+          "end": 7551,
+          "chapter": "IV",
+          "volume": "II"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:14:1923:2318",
+        "text": "Emma’s project of forgetting Mr. Elton for a while made her rather sorry to find, when they had all taken their places, that he was close to her. The difficulty was great of driving his strange insensibility towards Harriet, from her mind, while he not only sat at her elbow, but was continually obtruding his happy countenance on her notice, and solicitously addressing her upon every occasion.",
+        "score": 0.7495720386505127,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 14,
+          "start": 1923,
+          "volume": "I",
+          "end": 2318,
+          "document_id": "pg158",
+          "chapter": "XIV"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:9:24409:24731",
+        "text": "Mr. Elton certainly did not very well know what to say. He looked rather doubtingly—rather confused; said something about “honour,”—glanced at Emma and at Harriet, and then seeing the book open on the table, took it up, and examined it very attentively. With the view of passing off an awkward moment, Emma smilingly said,",
+        "score": 0.7436890006065369,
+        "metadata": {
+          "page": 9,
+          "start": 24409,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 24731,
+          "volume": "I",
+          "chapter": "IX"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.669,
+    "benchmark": {
+      "id": "Q08",
+      "split": "dev",
+      "question": "Why was Emma going down Vicarage Lane in mid-December?",
+      "expected_answer": "To visit a poor sick family.",
+      "gold_source_id": "pg158",
+      "gold_page": 10,
+      "evidence_quote": "Emma had a charitable visit to pay to a poor sick family"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:15:17171:17556",
+        "text": "Without knowing when the carriage turned into Vicarage Lane, or when it stopped, they found themselves, all at once, at the door of his house; and he was out before another syllable passed.—Emma then felt it indispensable to wish him a good night. The compliment was just returned, coldly and proudly; and, under indescribable irritation of spirits, she was then conveyed to Hartfield.",
+        "score": 0.7121044397354126,
+        "metadata": {
+          "page": 15,
+          "start": 17171,
+          "end": 17556,
+          "document_id": "pg158",
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XV"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:10:7944:8347",
+        "text": "“And really, I do not think the impression will soon be over,” said Emma, as she crossed the low hedge, and tottering footstep which ended the narrow, slippery path through the cottage garden, and brought them into the lane again. “I do not think it will,” stopping to look once more at all the outward wretchedness of the place, and recall the still greater within.\n\n“Oh! dear, no,” said her companion.",
+        "score": 0.6599103212356567,
+        "metadata": {
+          "end": 8347,
+          "document_id": "pg158",
+          "start": 7944,
+          "chapter": "X",
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 10
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:51:5564:5969",
+        "text": "Emma knew that he was now getting to the Box Hill party, and grew uncomfortable. Her own behaviour had been so very improper! She was deeply ashamed, and a little afraid of his next look. It was all read, however, steadily, attentively, and without the smallest remark; and, excepting one momentary glance at her, instantly withdrawn, in the fear of giving pain—no remembrance of Box Hill seemed to exist.",
+        "score": 0.6587604880332947,
+        "metadata": {
+          "document_id": "pg158",
+          "end": 5969,
+          "start": 5564,
+          "volume": "III",
+          "chapter": "XV",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 51
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.987,
+    "benchmark": {
+      "id": "Q09",
+      "split": "dev",
+      "question": "How many children came to Hartfield with Isabella and John Knightley?",
+      "expected_answer": "Five.",
+      "gold_source_id": "pg158",
+      "gold_page": 11,
+      "evidence_quote": "Mr. and Mrs. John Knightley, their five children"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:13:0:406",
+        "text": "There could hardly be a happier creature in the world than Mrs. John Knightley, in this short visit to Hartfield, going about every morning among her old acquaintance with her five children, and talking over what she had done every evening with her father and sister. She had nothing to wish otherwise, but that the days did not pass so swiftly. It was a delightful visit;—perfect, in being much too short.",
+        "score": 0.703221321105957,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 406,
+          "page": 13,
+          "document_id": "pg158",
+          "chapter": "XIII",
+          "volume": "I",
+          "start": 0
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:17:0:500",
+        "text": "Mr. and Mrs. John Knightley were not detained long at Hartfield. The weather soon improved enough for those to move who must move; and Mr. Woodhouse having, as usual, tried to persuade his daughter to stay behind with all her children, was obliged to see the whole party set off, and return to his lamentations over the destiny of poor Isabella;—which poor Isabella, passing her life with those she doated on, full of their merits, blind to their faults, and always innocently busy, might have been a",
+        "score": 0.6543680429458618,
+        "metadata": {
+          "chapter": "XVII",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 17,
+          "end": 500,
+          "document_id": "pg158",
+          "start": 0,
+          "volume": "I"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:1:8797:9180",
+        "text": "Mr. Knightley, a sensible man about seven or eight-and-thirty, was not only a very old and intimate friend of the family, but particularly connected with it, as the elder brother of Isabella’s husband. He lived about a mile from Highbury, was a frequent visitor, and always welcome, and at this time more welcome than usual, as coming directly from their mutual connexions in London.",
+        "score": 0.6537173986434937,
+        "metadata": {
+          "start": 8797,
+          "end": 9180,
+          "page": 1,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I",
+          "chapter": "I"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.317,
+    "benchmark": {
+      "id": "Q10",
+      "split": "dev",
+      "question": "What reason was given in Frank Churchill's letter for missing his planned visit?",
+      "expected_answer": "He could not be spared at the time.",
+      "gold_source_id": "pg158",
+      "gold_page": 18,
+      "evidence_quote": "Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston’s fears were justified in the arrival of a letter of excuse. For the present, he could not be spared",
+      "filter": {
+        "volume": "I"
+      },
+      "context": "Reader selected Volume I before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:18:0:313",
+        "text": "Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston’s fears were justified in the arrival of a letter of excuse. For the present, he could not be spared, to his “very great mortification and regret; but still he looked forward with the hope of coming to Randalls at no distant period.”",
+        "score": 0.7652103304862976,
+        "metadata": {
+          "document_id": "pg158",
+          "start": 0,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I",
+          "chapter": "XVIII",
+          "end": 313,
+          "page": 18
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:37:3195:3603",
+        "text": "This was the only visit from Frank Churchill in the course of ten days. He was often hoping, intending to come—but was always prevented. His aunt could not bear to have him leave her. Such was his own account at Randall’s. If he were quite sincere, if he really tried to come, it was to be inferred that Mrs. Churchill’s removal to London had been of no service to the wilful or nervous part of her disorder.",
+        "score": 0.7630345821380615,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "I",
+          "end": 3603,
+          "start": 3195,
+          "page": 37,
+          "volume": "III",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:5594:6042",
+        "text": "Now, upon his father’s marriage, it was very generally proposed, as a most proper attention, that the visit should take place. There was not a dissentient voice on the subject, either when Mrs. Perry drank tea with Mrs. and Miss Bates, or when Mrs. and Miss Bates returned the visit. Now was the time for Mr. Frank Churchill to come among them; and the hope strengthened when it was understood that he had written to his new mother on the occasion.",
+        "score": 0.7449688911437988,
+        "metadata": {
+          "volume": "I",
+          "document_id": "pg158",
+          "page": 2,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 5594,
+          "end": 6042,
+          "chapter": "II"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.558,
+    "benchmark": {
+      "id": "Q11",
+      "split": "dev",
+      "question": "What family circumstances are given when the narrator introduces Jane Fairfax?",
+      "expected_answer": "She was an orphan and the only child of Mrs. Bates's youngest daughter.",
+      "gold_source_id": "pg158",
+      "gold_page": 20,
+      "evidence_quote": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:20:0:392",
+        "text": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter.\n\nThe marriage of Lieut. Fairfax of the ——regiment of infantry, and Miss Jane Bates, had had its day of fame and pleasure, hope and interest; but nothing now remained of it, save the melancholy remembrance of him dying in action abroad—of his widow sinking under consumption and grief soon afterwards—and this girl.",
+        "score": 0.7126748561859131,
+        "metadata": {
+          "document_id": "pg158",
+          "page": 20,
+          "start": 0,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "II",
+          "end": 392,
+          "volume": "II"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:33:5890:6381",
+        "text": "Suckling, in income.—However, my resolution is taken as to noticing Jane Fairfax.—I shall certainly have her very often at my house, shall introduce her wherever I can, shall have musical parties to draw out her talents, and shall be constantly on the watch for an eligible situation. My acquaintance is so very extensive, that I have little doubt of hearing of something to suit her shortly.—I shall introduce her, of course, very particularly to my brother and sister when they come to us.",
+        "score": 0.6975827217102051,
+        "metadata": {
+          "document_id": "pg158",
+          "volume": "II",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XV",
+          "end": 6381,
+          "page": 33,
+          "start": 5890
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:47:4804:5282",
+        "text": "“Oh! he told me all about it; that Jane Fairfax and Mr. Frank Churchill are to be married, and that they have been privately engaged to one another this long while. How very odd!”\n\nIt was, indeed, so odd; Harriet’s behaviour was so extremely odd, that Emma did not know how to understand it. Her character appeared absolutely changed. She seemed to propose shewing no agitation, or disappointment, or peculiar concern in the discovery. Emma looked at her, quite unable to speak.",
+        "score": 0.6790866851806641,
+        "metadata": {
+          "volume": "III",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 47,
+          "start": 4804,
+          "end": 5282,
+          "document_id": "pg158",
+          "chapter": "XI"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 3.541,
+    "benchmark": {
+      "id": "Q12",
+      "split": "dev",
+      "question": "Which city was Miss Hawkins's home, despite spending part of the winter elsewhere?",
+      "expected_answer": "Bristol.",
+      "gold_source_id": "pg158",
+      "gold_page": 22,
+      "evidence_quote": "Part of every winter she had been used to spend in Bath; but Bristol was her home"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:16:9066:9523",
+        "text": "The ground covered with snow, and the atmosphere in that unsettled state between frost and thaw, which is of all others the most unfriendly for exercise, every morning beginning in rain or snow, and every evening setting in to freeze, she was for many days a most honourable prisoner. No intercourse with Harriet possible but by note; no church for her on Sunday any more than on Christmas Day; and no need to find excuses for Mr. Elton’s absenting himself.",
+        "score": 0.6053186058998108,
+        "metadata": {
+          "document_id": "pg158",
+          "page": 16,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 9523,
+          "start": 9066,
+          "chapter": "XVI",
+          "volume": "I"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:13:1372:1859",
+        "text": "The evening before this great event (for it was a very great event that Mr. Woodhouse should dine out, on the 24th of December) had been spent by Harriet at Hartfield, and she had gone home so much indisposed with a cold, that, but for her own earnest wish of being nursed by Mrs. Goddard, Emma could not have allowed her to leave the house. Emma called on her the next day, and found her doom already signed with regard to Randalls. She was very feverish and had a bad sore throat: Mrs.",
+        "score": 0.598118782043457,
+        "metadata": {
+          "chapter": "XIII",
+          "document_id": "pg158",
+          "end": 1859,
+          "start": 1372,
+          "page": 13,
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:22:4818:5222",
+        "text": "Part of every winter she had been used to spend in Bath; but Bristol was her home, the very heart of Bristol; for though the father and mother had died some years ago, an uncle remained—in the law line—nothing more distinctly honourable was hazarded of him, than that he was in the law line; and with him the daughter had lived. Emma guessed him to be the drudge of some attorney, and too stupid to rise.",
+        "score": 0.5955737829208374,
+        "metadata": {
+          "start": 4818,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 22,
+          "volume": "II",
+          "chapter": "IV",
+          "end": 5222
+        },
+        "evidence_hit": true
+      }
+    ],
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.566,
+    "benchmark": {
+      "id": "Q13",
+      "split": "dev",
+      "question": "What was the apparent purpose of Frank Churchill's sudden trip to London?",
+      "expected_answer": "To get a haircut.",
+      "gold_source_id": "pg158",
+      "gold_page": 25,
+      "evidence_quote": "he was gone off to London, merely to have his hair cut.",
+      "filter": {
+        "volume": "II"
+      },
+      "context": "Reader selected Volume II before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:25:0:354",
+        "text": "Emma’s very good opinion of Frank Churchill was a little shaken the following day, by hearing that he was gone off to London, merely to have his hair cut. A sudden freak seemed to have seized him at breakfast, and he had sent for a chaise and set off, intending to return to dinner, but with no more important view that appeared than having his hair cut.",
+        "score": 0.7173207998275757,
+        "metadata": {
+          "start": 0,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "VII",
+          "page": 25,
+          "volume": "II",
+          "document_id": "pg158",
+          "end": 354
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:37:3195:3603",
+        "text": "This was the only visit from Frank Churchill in the course of ten days. He was often hoping, intending to come—but was always prevented. His aunt could not bear to have him leave her. Such was his own account at Randall’s. If he were quite sincere, if he really tried to come, it was to be inferred that Mrs. Churchill’s removal to London had been of no service to the wilful or nervous part of her disorder.",
+        "score": 0.7139019966125488,
+        "metadata": {
+          "start": 3195,
+          "page": 37,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "I",
+          "document_id": "pg158",
+          "end": 3603,
+          "volume": "III"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:49:17215:17497",
+        "text": "It was his jealousy of Frank Churchill that had taken him from the country.—The Box Hill party had decided him on going away. He would save himself from witnessing again such permitted, encouraged attentions.—He had gone to learn to be indifferent.—But he had gone to a wrong place.",
+        "score": 0.7026325464248657,
+        "metadata": {
+          "chapter": "XIII",
+          "end": 17497,
+          "page": 49,
+          "start": 17215,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.973,
+    "benchmark": {
+      "id": "Q14",
+      "split": "dev",
+      "question": "Where had the unexpected pianoforte been sent from?",
+      "expected_answer": "Broadwood's.",
+      "gold_source_id": "pg158",
+      "gold_page": 26,
+      "evidence_quote": "this pianoforte had arrived from Broadwood’s the day before",
+      "filter": {
+        "volume": "II"
+      },
+      "context": "Reader selected Volume II before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:26:12346:12656",
+        "text": "“The arrival of this pianoforte is decisive with me. I wanted to know a little more, and this tells me quite enough. Depend upon it, we shall soon hear that it is a present from Mr. and Mrs. Dixon.”\n\n“And if the Dixons should absolutely deny all knowledge of it we must conclude it to come from the Campbells.”",
+        "score": 0.7637876272201538,
+        "metadata": {
+          "page": 26,
+          "start": 12346,
+          "volume": "II",
+          "chapter": "VIII",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 12656,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:26:27469:27958",
+        "text": "and I had almost forgotten one idea that occurred to me—this pianoforte that has been sent here by somebody—though we have all been so well satisfied to consider it a present from the Campbells, may it not be from Mr. Knightley? I cannot help suspecting him. I think he is just the person to do it, even without being in love.”\n\n“Then it can be no argument to prove that he is in love. But I do not think it is at all a likely thing for him to do. Mr. Knightley does nothing mysteriously.”",
+        "score": 0.7203863859176636,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 27958,
+          "chapter": "VIII",
+          "page": 26,
+          "document_id": "pg158",
+          "volume": "II",
+          "start": 27469
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:50:10578:11075",
+        "text": "My heart was in Highbury, and my business was to get my body thither as often as might be, and with the least suspicion. If you remember any queernesses, set them all to the right account.—Of the pianoforte so much talked of, I feel it only necessary to say, that its being ordered was absolutely unknown to Miss F—, who would never have allowed me to send it, had any choice been given her.—The delicacy of her mind throughout the whole engagement, my dear madam, is much beyond my power of doing",
+        "score": 0.7080196142196655,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "end": 11075,
+          "document_id": "pg158",
+          "page": 50,
+          "start": 10578,
+          "chapter": "XIV"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.112,
+    "benchmark": {
+      "id": "Q15",
+      "split": "dev",
+      "question": "Whose spectacles was Frank Churchill working on when the visitors came in?",
+      "expected_answer": "Mrs. Bates's.",
+      "gold_source_id": "pg158",
+      "gold_page": 28,
+      "evidence_quote": "Mrs. Bates, deprived of her usual employment, slumbering on one side of the fire, Frank Churchill, at a table near her, most deedily occupied about her spectacles"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:38:858:1250",
+        "text": "Frank Churchill seemed to have been on the watch; and though he did not say much, his eyes declared that he meant to have a delightful evening. They all walked about together, to see that every thing was as it should be; and within a few minutes were joined by the contents of another carriage, which Emma could not hear the sound of at first, without great surprize. “So unreasonably early!”",
+        "score": 0.6883814334869385,
+        "metadata": {
+          "document_id": "pg158",
+          "start": 858,
+          "end": 1250,
+          "volume": "III",
+          "chapter": "II",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 38
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:5330:5592",
+        "text": "Mr. Frank Churchill was one of the boasts of Highbury, and a lively curiosity to see him prevailed, though the compliment was so little returned that he had never been there in his life. His coming to visit his father had been often talked of but never achieved.",
+        "score": 0.6806269884109497,
+        "metadata": {
+          "document_id": "pg158",
+          "volume": "I",
+          "end": 5592,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 5330,
+          "page": 2,
+          "chapter": "II"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:29:393:818",
+        "text": "Frank Churchill had danced once at Highbury, and longed to dance again; and the last half-hour of an evening which Mr. Woodhouse was persuaded to spend with his daughter at Randalls, was passed by the two young people in schemes on the subject. Frank’s was the first idea; and his the greatest zeal in pursuing it; for the lady was the best judge of the difficulties, and the most solicitous for accommodation and appearance.",
+        "score": 0.6425198316574097,
+        "metadata": {
+          "document_id": "pg158",
+          "end": 818,
+          "start": 393,
+          "volume": "II",
+          "chapter": "XI",
+          "page": 29,
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 2.099,
+    "benchmark": {
+      "id": "Q01",
+      "split": "dev",
+      "question": "How old was Emma Woodhouse at the beginning of the novel?",
+      "expected_answer": "Nearly twenty-one.",
+      "gold_source_id": "pg158",
+      "gold_page": 1,
+      "evidence_quote": "lived nearly twenty-one years in the world"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:42:20489:20633",
+        "text": "escape.—Little expecting to meet Miss Woodhouse so soon, there was a start at first; but Miss Woodhouse was the very person she was in quest of.",
+        "score": 0.6457692384719849,
+        "metadata": {
+          "end": 20633,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "volume": "III",
+          "start": 20489,
+          "chapter": "VI",
+          "page": 42
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:12:12341:12734",
+        "text": "She would be such a delightful companion for Emma.”\n\nMr. Woodhouse agreed to it all, but added,\n\n“Our little friend Harriet Smith, however, is just such another pretty kind of young person. You will like Harriet. Emma could not have a better companion than Harriet.”\n\n“I am most happy to hear it—but only Jane Fairfax one knows to be so very accomplished and superior!—and exactly Emma’s age.”",
+        "score": 0.6359261274337769,
+        "metadata": {
+          "end": 12734,
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XII",
+          "start": 12341,
+          "document_id": "pg158",
+          "page": 12
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:42:22153:22615",
+        "text": "Emma had not another word to oppose. She saw it all; and entering into her feelings, promoted her quitting the house immediately, and watched her safely off with the zeal of a friend. Her parting look was grateful—and her parting words, “Oh! Miss Woodhouse, the comfort of being sometimes alone!”—seemed to burst from an overcharged heart, and to describe somewhat of the continual endurance to be practised by her, even towards some of those who loved her best.",
+        "score": 0.6276953816413879,
+        "metadata": {
+          "volume": "III",
+          "end": 22615,
+          "chapter": "VI",
+          "document_id": "pg158",
+          "page": 42,
+          "start": 22153,
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 1.985,
+    "benchmark": {
+      "id": "Q02",
+      "split": "dev",
+      "question": "How many years did Miss Taylor spend with the Woodhouse family?",
+      "expected_answer": "Sixteen years.",
+      "gold_source_id": "pg158",
+      "gold_page": 1,
+      "evidence_quote": "Sixteen years had Miss Taylor been in Mr. Woodhouse’s family"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:1:653:1153",
+        "text": "Sixteen years had Miss Taylor been in Mr. Woodhouse’s family, less as a governess than a friend, very fond of both daughters, but particularly of Emma. Between _them_ it was more the intimacy of sisters. Even before Miss Taylor had ceased to hold the nominal office of governess, the mildness of her temper had hardly allowed her to impose any restraint; and the shadow of authority being now long passed away, they had been living together as friend and friend very mutually attached, and Emma doing",
+        "score": 0.699013352394104,
+        "metadata": {
+          "document_id": "pg158",
+          "page": 1,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "I",
+          "volume": "I",
+          "end": 1153,
+          "start": 653
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:2:8253:8387",
+        "text": "But never did she go without Mr. Woodhouse’s giving a gentle sigh, and saying, “Ah, poor Miss Taylor! She would be very glad to stay.”",
+        "score": 0.6631124019622803,
+        "metadata": {
+          "page": 2,
+          "end": 8387,
+          "chapter": "II",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 8253,
+          "volume": "I",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:8389:8831",
+        "text": "There was no recovering Miss Taylor—nor much likelihood of ceasing to pity her; but a few weeks brought some alleviation to Mr. Woodhouse. The compliments of his neighbours were over; he was no longer teased by being wished joy of so sorrowful an event; and the wedding-cake, which had been a great distress to him, was all eat up. His own stomach could bear nothing rich, and he could never believe other people to be different from himself.",
+        "score": 0.6354643106460571,
+        "metadata": {
+          "start": 8389,
+          "end": 8831,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "volume": "I",
+          "chapter": "II",
+          "page": 2
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 3.322,
+    "benchmark": {
+      "id": "Q03",
+      "split": "dev",
+      "question": "What service did Mr. Weston enter?",
+      "expected_answer": "His county militia.",
+      "gold_source_id": "pg158",
+      "gold_page": 2,
+      "evidence_quote": "by entering into the militia of his county"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:23:14620:14895",
+        "text": "A reasonable visit paid, Mr. Weston began to move.—“He must be going. He had business at the Crown about his hay, and a great many errands for Mrs. Weston at Ford’s, but he need not hurry any body else.” His son, too well bred to hear the hint, rose immediately also, saying,",
+        "score": 0.724906325340271,
+        "metadata": {
+          "document_id": "pg158",
+          "end": 14895,
+          "page": 23,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "start": 14620,
+          "chapter": "V"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:0:465",
+        "text": "Mr. Weston was a native of Highbury, and born of a respectable family, which for the last two or three generations had been rising into gentility and property. He had received a good education, but, on succeeding early in life to a small independence, had become indisposed for any of the more homely pursuits in which his brothers were engaged, and had satisfied an active, cheerful mind and social temper by entering into the militia of his county, then embodied.",
+        "score": 0.7096699476242065,
+        "metadata": {
+          "volume": "I",
+          "end": 465,
+          "chapter": "II",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 2,
+          "start": 0
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:14:5691:6052",
+        "text": "“He has been wanting to come to us,” continued Mr. Weston, “ever since September: every letter has been full of it; but he cannot command his own time. He has those to please who must be pleased, and who (between ourselves) are sometimes to be pleased only by a good many sacrifices. But now I have no doubt of seeing him here about the second week in January.”",
+        "score": 0.7056872844696045,
+        "metadata": {
+          "page": 14,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XIV",
+          "document_id": "pg158",
+          "start": 5691,
+          "end": 6052,
+          "volume": "I"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 2.695,
+    "benchmark": {
+      "id": "Q04",
+      "split": "dev",
+      "question": "What kinds of occasions made it difficult for Mr. Woodhouse to socialize?",
+      "expected_answer": "Late hours and large dinner parties.",
+      "gold_source_id": "pg158",
+      "gold_page": 3,
+      "evidence_quote": "his horror of late hours, and large dinner-parties"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:11:4559:4882",
+        "text": "which he sometimes fell into, the want of respectful forbearance towards her father. There he had not always the patience that could have been wished. Mr. Woodhouse’s peculiarities and fidgetiness were sometimes provoking him to a rational remonstrance or sharp retort equally ill-bestowed. It did not often happen; for Mr.",
+        "score": 0.7567447423934937,
+        "metadata": {
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 4882,
+          "volume": "I",
+          "chapter": "XI",
+          "start": 4559,
+          "page": 11
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:3:8791:9181",
+        "text": "Upon such occasions poor Mr. Woodhouse’s feelings were in sad warfare. He loved to have the cloth laid, because it had been the fashion of his youth, but his conviction of suppers being very unwholesome made him rather sorry to see any thing put on it; and while his hospitality would have welcomed his visitors to every thing, his care for their health made him grieve that they would eat.",
+        "score": 0.7325915098190308,
+        "metadata": {
+          "start": 8791,
+          "end": 9181,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 3,
+          "volume": "I",
+          "chapter": "III"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:15:16723:17170",
+        "text": "He was too angry to say another word; her manner too decided to invite supplication; and in this state of swelling resentment, and mutually deep mortification, they had to continue together a few minutes longer, for the fears of Mr. Woodhouse had confined them to a foot-pace. If there had not been so much anger, there would have been desperate awkwardness; but their straightforward emotions left no room for the little zigzags of embarrassment.",
+        "score": 0.7169128656387329,
+        "metadata": {
+          "chapter": "XV",
+          "page": 15,
+          "end": 17170,
+          "volume": "I",
+          "document_id": "pg158",
+          "start": 16723,
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 3.361,
+    "benchmark": {
+      "id": "Q05",
+      "split": "dev",
+      "question": "Who took the portrait to London for framing?",
+      "expected_answer": "Mr. Elton.",
+      "gold_source_id": "pg158",
+      "gold_page": 6,
+      "evidence_quote": "Mr. Elton was to take the drawing to London, chuse the frame"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:6:13251:13729",
+        "text": "The next thing wanted was to get the picture framed; and here were a few difficulties. It must be done directly; it must be done in London; the order must go through the hands of some intelligent person whose taste could be depended on; and Isabella, the usual doer of all commissions, must not be applied to, because it was December, and Mr. Woodhouse could not bear the idea of her stirring out of her house in the fogs of December. But no sooner was the distress known to Mr.",
+        "score": 0.7144955992698669,
+        "metadata": {
+          "document_id": "pg158",
+          "chapter": "VI",
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 13729,
+          "start": 13251,
+          "page": 6
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:6:4270:4705",
+        "text": "Harriet was soon back again, and the proposal almost immediately made; and she had no scruples which could stand many minutes against the earnest pressing of both the others. Emma wished to go to work directly, and therefore produced the portfolio containing her various attempts at portraits, for not one of them had ever been finished, that they might decide together on the best size for Harriet. Her many beginnings were displayed.",
+        "score": 0.6970033645629883,
+        "metadata": {
+          "chapter": "VI",
+          "page": 6,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 4270,
+          "end": 4705,
+          "document_id": "pg158",
+          "volume": "I"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:6:2372:2871",
+        "text": "“What an exquisite possession a good picture of her would be! I would give any money for it. I almost long to attempt her likeness myself. You do not know it I dare say, but two or three years ago I had a great passion for taking likenesses, and attempted several of my friends, and was thought to have a tolerable eye in general. But from one cause or another, I gave it up in disgust. But really, I could almost venture, if Harriet would sit to me. It would be such a delight to have her picture!”",
+        "score": 0.6683667898178101,
+        "metadata": {
+          "end": 2871,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 6,
+          "volume": "I",
+          "start": 2372,
+          "document_id": "pg158",
+          "chapter": "VI"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 2.631,
+    "benchmark": {
+      "id": "Q06",
+      "split": "dev",
+      "question": "What did Mr. Martin communicate in his letter delivered in a parcel?",
+      "expected_answer": "A proposal of marriage.",
+      "gold_source_id": "pg158",
+      "gold_page": 7,
+      "evidence_quote": "this letter was from him, from Mr. Martin, and contained a direct proposal of marriage."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:51:6398:6874",
+        "text": "“I hope he does,” replied Mr. Knightley coolly, and resuming the letter. “‘Smallridge!’—What does this mean? What is all this?”\n\n“She had engaged to go as governess to Mrs. Smallridge’s children—a dear friend of Mrs. Elton’s—a neighbour of Maple Grove; and, by the bye, I wonder how Mrs. Elton bears the disappointment?”\n\n“Say nothing, my dear Emma, while you oblige me to read—not even of Mrs. Elton. Only one page more. I shall soon have done. What a letter the man writes!”",
+        "score": 0.6985190510749817,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "document_id": "pg158",
+          "start": 6398,
+          "chapter": "XV",
+          "end": 6874,
+          "page": 51
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:54:3829:4329",
+        "text": "This is all that I can relate of the how, where, and when. Your friend Harriet will make a much longer history when you see her.—She will give you all the minute particulars, which only woman’s language can make interesting.—In our communications we deal only in the great.—However, I must say, that Robert Martin’s heart seemed for _him_, and to _me_, very overflowing; and that he did mention, without its being much to the purpose, that on quitting their box at Astley’s, my brother took charge of",
+        "score": 0.6911699771881104,
+        "metadata": {
+          "end": 4329,
+          "page": 54,
+          "volume": "III",
+          "start": 3829,
+          "chapter": "XVIII",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:46:11141:11591",
+        "text": "“I am to hear from him soon,” continued Mrs. Weston. “He told me at parting, that he should soon write; and he spoke in a manner which seemed to promise me many particulars that could not be given now. Let us wait, therefore, for this letter. It may bring many extenuations. It may make many things intelligible and excusable which now are not to be understood. Don’t let us be severe, don’t let us be in a hurry to condemn him. Let us have patience.",
+        "score": 0.6828359365463257,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 11141,
+          "page": 46,
+          "document_id": "pg158",
+          "chapter": "X",
+          "volume": "III",
+          "end": 11591
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 3.333,
+    "benchmark": {
+      "id": "Q07",
+      "split": "dev",
+      "question": "What solution did Emma find for Mr. Elton's charade?",
+      "expected_answer": "Courtship.",
+      "gold_source_id": "pg158",
+      "gold_page": 9,
+      "evidence_quote": "charades. _Courtship_—a very good hint."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:22:7174:7551",
+        "text": "Had it been allowable entertainment, had there been no pain to her friend, or reproach to herself, in the waverings of Harriet’s mind, Emma would have been amused by its variations. Sometimes Mr. Elton predominated, sometimes the Martins; and each was occasionally useful as a check to the other. Mr. Elton’s engagement had been the cure of the agitation of meeting Mr. Martin.",
+        "score": 0.7514389753341675,
+        "metadata": {
+          "document_id": "pg158",
+          "end": 7551,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 22,
+          "chapter": "IV",
+          "volume": "II",
+          "start": 7174
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:14:1923:2318",
+        "text": "Emma’s project of forgetting Mr. Elton for a while made her rather sorry to find, when they had all taken their places, that he was close to her. The difficulty was great of driving his strange insensibility towards Harriet, from her mind, while he not only sat at her elbow, but was continually obtruding his happy countenance on her notice, and solicitously addressing her upon every occasion.",
+        "score": 0.7495720386505127,
+        "metadata": {
+          "start": 1923,
+          "page": 14,
+          "document_id": "pg158",
+          "end": 2318,
+          "chapter": "XIV",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:9:24409:24731",
+        "text": "Mr. Elton certainly did not very well know what to say. He looked rather doubtingly—rather confused; said something about “honour,”—glanced at Emma and at Harriet, and then seeing the book open on the table, took it up, and examined it very attentively. With the view of passing off an awkward moment, Emma smilingly said,",
+        "score": 0.7436890006065369,
+        "metadata": {
+          "page": 9,
+          "volume": "I",
+          "end": 24731,
+          "start": 24409,
+          "chapter": "IX",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 4.039,
+    "benchmark": {
+      "id": "Q08",
+      "split": "dev",
+      "question": "Why was Emma going down Vicarage Lane in mid-December?",
+      "expected_answer": "To visit a poor sick family.",
+      "gold_source_id": "pg158",
+      "gold_page": 10,
+      "evidence_quote": "Emma had a charitable visit to pay to a poor sick family"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:15:17171:17556",
+        "text": "Without knowing when the carriage turned into Vicarage Lane, or when it stopped, they found themselves, all at once, at the door of his house; and he was out before another syllable passed.—Emma then felt it indispensable to wish him a good night. The compliment was just returned, coldly and proudly; and, under indescribable irritation of spirits, she was then conveyed to Hartfield.",
+        "score": 0.7121044397354126,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 17171,
+          "chapter": "XV",
+          "end": 17556,
+          "page": 15,
+          "document_id": "pg158",
+          "volume": "I"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:10:7944:8347",
+        "text": "“And really, I do not think the impression will soon be over,” said Emma, as she crossed the low hedge, and tottering footstep which ended the narrow, slippery path through the cottage garden, and brought them into the lane again. “I do not think it will,” stopping to look once more at all the outward wretchedness of the place, and recall the still greater within.\n\n“Oh! dear, no,” said her companion.",
+        "score": 0.6599103212356567,
+        "metadata": {
+          "document_id": "pg158",
+          "start": 7944,
+          "chapter": "X",
+          "end": 8347,
+          "volume": "I",
+          "page": 10,
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:51:5564:5969",
+        "text": "Emma knew that he was now getting to the Box Hill party, and grew uncomfortable. Her own behaviour had been so very improper! She was deeply ashamed, and a little afraid of his next look. It was all read, however, steadily, attentively, and without the smallest remark; and, excepting one momentary glance at her, instantly withdrawn, in the fear of giving pain—no remembrance of Box Hill seemed to exist.",
+        "score": 0.6587604880332947,
+        "metadata": {
+          "end": 5969,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 5564,
+          "chapter": "XV",
+          "volume": "III",
+          "page": 51
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 3.094,
+    "benchmark": {
+      "id": "Q09",
+      "split": "dev",
+      "question": "How many children came to Hartfield with Isabella and John Knightley?",
+      "expected_answer": "Five.",
+      "gold_source_id": "pg158",
+      "gold_page": 11,
+      "evidence_quote": "Mr. and Mrs. John Knightley, their five children"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:13:0:406",
+        "text": "There could hardly be a happier creature in the world than Mrs. John Knightley, in this short visit to Hartfield, going about every morning among her old acquaintance with her five children, and talking over what she had done every evening with her father and sister. She had nothing to wish otherwise, but that the days did not pass so swiftly. It was a delightful visit;—perfect, in being much too short.",
+        "score": 0.703221321105957,
+        "metadata": {
+          "end": 406,
+          "document_id": "pg158",
+          "start": 0,
+          "volume": "I",
+          "page": 13,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XIII"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:17:0:500",
+        "text": "Mr. and Mrs. John Knightley were not detained long at Hartfield. The weather soon improved enough for those to move who must move; and Mr. Woodhouse having, as usual, tried to persuade his daughter to stay behind with all her children, was obliged to see the whole party set off, and return to his lamentations over the destiny of poor Isabella;—which poor Isabella, passing her life with those she doated on, full of their merits, blind to their faults, and always innocently busy, might have been a",
+        "score": 0.6543680429458618,
+        "metadata": {
+          "page": 17,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 500,
+          "chapter": "XVII",
+          "volume": "I",
+          "start": 0,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:1:8797:9180",
+        "text": "Mr. Knightley, a sensible man about seven or eight-and-thirty, was not only a very old and intimate friend of the family, but particularly connected with it, as the elder brother of Isabella’s husband. He lived about a mile from Highbury, was a frequent visitor, and always welcome, and at this time more welcome than usual, as coming directly from their mutual connexions in London.",
+        "score": 0.6537173986434937,
+        "metadata": {
+          "volume": "I",
+          "document_id": "pg158",
+          "chapter": "I",
+          "page": 1,
+          "start": 8797,
+          "end": 9180,
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": {
+      "volume": "I"
+    },
+    "search_ms": 27.347,
+    "benchmark": {
+      "id": "Q10",
+      "split": "dev",
+      "question": "What reason was given in Frank Churchill's letter for missing his planned visit?",
+      "expected_answer": "He could not be spared at the time.",
+      "gold_source_id": "pg158",
+      "gold_page": 18,
+      "evidence_quote": "Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston’s fears were justified in the arrival of a letter of excuse. For the present, he could not be spared",
+      "filter": {
+        "volume": "I"
+      },
+      "context": "Reader selected Volume I before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:18:0:313",
+        "text": "Mr. Frank Churchill did not come. When the time proposed drew near, Mrs. Weston’s fears were justified in the arrival of a letter of excuse. For the present, he could not be spared, to his “very great mortification and regret; but still he looked forward with the hope of coming to Randalls at no distant period.”",
+        "score": 0.7652103304862976,
+        "metadata": {
+          "start": 0,
+          "volume": "I",
+          "chapter": "XVIII",
+          "document_id": "pg158",
+          "page": 18,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 313
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:2:5594:6042",
+        "text": "Now, upon his father’s marriage, it was very generally proposed, as a most proper attention, that the visit should take place. There was not a dissentient voice on the subject, either when Mrs. Perry drank tea with Mrs. and Miss Bates, or when Mrs. and Miss Bates returned the visit. Now was the time for Mr. Frank Churchill to come among them; and the hope strengthened when it was understood that he had written to his new mother on the occasion.",
+        "score": 0.7449688911437988,
+        "metadata": {
+          "end": 6042,
+          "page": 2,
+          "start": 5594,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I",
+          "chapter": "II",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:5330:5592",
+        "text": "Mr. Frank Churchill was one of the boasts of Highbury, and a lively curiosity to see him prevailed, though the compliment was so little returned that he had never been there in his life. His coming to visit his father had been often talked of but never achieved.",
+        "score": 0.7024808526039124,
+        "metadata": {
+          "end": 5592,
+          "page": 2,
+          "document_id": "pg158",
+          "chapter": "II",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 5330,
+          "volume": "I"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 1.859,
+    "benchmark": {
+      "id": "Q11",
+      "split": "dev",
+      "question": "What family circumstances are given when the narrator introduces Jane Fairfax?",
+      "expected_answer": "She was an orphan and the only child of Mrs. Bates's youngest daughter.",
+      "gold_source_id": "pg158",
+      "gold_page": 20,
+      "evidence_quote": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:20:0:392",
+        "text": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter.\n\nThe marriage of Lieut. Fairfax of the ——regiment of infantry, and Miss Jane Bates, had had its day of fame and pleasure, hope and interest; but nothing now remained of it, save the melancholy remembrance of him dying in action abroad—of his widow sinking under consumption and grief soon afterwards—and this girl.",
+        "score": 0.7126748561859131,
+        "metadata": {
+          "chapter": "II",
+          "end": 392,
+          "page": 20,
+          "start": 0,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "document_id": "pg158"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:33:5890:6381",
+        "text": "Suckling, in income.—However, my resolution is taken as to noticing Jane Fairfax.—I shall certainly have her very often at my house, shall introduce her wherever I can, shall have musical parties to draw out her talents, and shall be constantly on the watch for an eligible situation. My acquaintance is so very extensive, that I have little doubt of hearing of something to suit her shortly.—I shall introduce her, of course, very particularly to my brother and sister when they come to us.",
+        "score": 0.6975827217102051,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 6381,
+          "page": 33,
+          "chapter": "XV",
+          "volume": "II",
+          "start": 5890,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:47:4804:5282",
+        "text": "“Oh! he told me all about it; that Jane Fairfax and Mr. Frank Churchill are to be married, and that they have been privately engaged to one another this long while. How very odd!”\n\nIt was, indeed, so odd; Harriet’s behaviour was so extremely odd, that Emma did not know how to understand it. Her character appeared absolutely changed. She seemed to propose shewing no agitation, or disappointment, or peculiar concern in the discovery. Emma looked at her, quite unable to speak.",
+        "score": 0.6790866851806641,
+        "metadata": {
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XI",
+          "page": 47,
+          "end": 5282,
+          "start": 4804,
+          "volume": "III"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 1.598,
+    "benchmark": {
+      "id": "Q12",
+      "split": "dev",
+      "question": "Which city was Miss Hawkins's home, despite spending part of the winter elsewhere?",
+      "expected_answer": "Bristol.",
+      "gold_source_id": "pg158",
+      "gold_page": 22,
+      "evidence_quote": "Part of every winter she had been used to spend in Bath; but Bristol was her home"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:16:9066:9523",
+        "text": "The ground covered with snow, and the atmosphere in that unsettled state between frost and thaw, which is of all others the most unfriendly for exercise, every morning beginning in rain or snow, and every evening setting in to freeze, she was for many days a most honourable prisoner. No intercourse with Harriet possible but by note; no church for her on Sunday any more than on Christmas Day; and no need to find excuses for Mr. Elton’s absenting himself.",
+        "score": 0.6053186058998108,
+        "metadata": {
+          "end": 9523,
+          "chapter": "XVI",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 9066,
+          "document_id": "pg158",
+          "volume": "I",
+          "page": 16
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:13:1372:1859",
+        "text": "The evening before this great event (for it was a very great event that Mr. Woodhouse should dine out, on the 24th of December) had been spent by Harriet at Hartfield, and she had gone home so much indisposed with a cold, that, but for her own earnest wish of being nursed by Mrs. Goddard, Emma could not have allowed her to leave the house. Emma called on her the next day, and found her doom already signed with regard to Randalls. She was very feverish and had a bad sore throat: Mrs.",
+        "score": 0.598118782043457,
+        "metadata": {
+          "document_id": "pg158",
+          "end": 1859,
+          "page": 13,
+          "chapter": "XIII",
+          "start": 1372,
+          "volume": "I",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:22:4818:5222",
+        "text": "Part of every winter she had been used to spend in Bath; but Bristol was her home, the very heart of Bristol; for though the father and mother had died some years ago, an uncle remained—in the law line—nothing more distinctly honourable was hazarded of him, than that he was in the law line; and with him the daughter had lived. Emma guessed him to be the drudge of some attorney, and too stupid to rise.",
+        "score": 0.5955737829208374,
+        "metadata": {
+          "volume": "II",
+          "document_id": "pg158",
+          "start": 4818,
+          "page": 22,
+          "end": 5222,
+          "chapter": "IV",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": true
+      }
+    ],
+    "hit1": false,
+    "hit3": true
+  },
+  {
+    "strategy": "C",
+    "applied_filter": {
+      "volume": "II"
+    },
+    "search_ms": 20.745,
+    "benchmark": {
+      "id": "Q13",
+      "split": "dev",
+      "question": "What was the apparent purpose of Frank Churchill's sudden trip to London?",
+      "expected_answer": "To get a haircut.",
+      "gold_source_id": "pg158",
+      "gold_page": 25,
+      "evidence_quote": "he was gone off to London, merely to have his hair cut.",
+      "filter": {
+        "volume": "II"
+      },
+      "context": "Reader selected Volume II before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:25:0:354",
+        "text": "Emma’s very good opinion of Frank Churchill was a little shaken the following day, by hearing that he was gone off to London, merely to have his hair cut. A sudden freak seemed to have seized him at breakfast, and he had sent for a chaise and set off, intending to return to dinner, but with no more important view that appeared than having his hair cut.",
+        "score": 0.7173207998275757,
+        "metadata": {
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "start": 0,
+          "chapter": "VII",
+          "end": 354,
+          "page": 25
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:26:17835:18128",
+        "text": "Churchill were not in health and spirits for going; that they made a point of visiting no fresh person; and that, though he had his separate engagements, it was not without difficulty, without considerable address _at_ _times_, that he could get away, or introduce an acquaintance for a night.",
+        "score": 0.6704314351081848,
+        "metadata": {
+          "page": 26,
+          "chapter": "VIII",
+          "start": 17835,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "document_id": "pg158",
+          "end": 18128
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:23:6780:7210",
+        "text": "“Will Mr. Frank Churchill pass through Bath as well as Oxford?”—was a question, however, which did not augur much.\n\nBut neither geography nor tranquillity could come all at once, and Emma was now in a humour to resolve that they should both come in time.\n\nThe morning of the interesting day arrived, and Mrs. Weston’s faithful pupil did not forget either at ten, or eleven, or twelve o’clock, that she was to think of her at four.",
+        "score": 0.6682069301605225,
+        "metadata": {
+          "page": 23,
+          "end": 7210,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "document_id": "pg158",
+          "start": 6780,
+          "chapter": "V"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "C",
+    "applied_filter": {
+      "volume": "II"
+    },
+    "search_ms": 6.715,
+    "benchmark": {
+      "id": "Q14",
+      "split": "dev",
+      "question": "Where had the unexpected pianoforte been sent from?",
+      "expected_answer": "Broadwood's.",
+      "gold_source_id": "pg158",
+      "gold_page": 26,
+      "evidence_quote": "this pianoforte had arrived from Broadwood’s the day before",
+      "filter": {
+        "volume": "II"
+      },
+      "context": "Reader selected Volume II before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:26:12346:12656",
+        "text": "“The arrival of this pianoforte is decisive with me. I wanted to know a little more, and this tells me quite enough. Depend upon it, we shall soon hear that it is a present from Mr. and Mrs. Dixon.”\n\n“And if the Dixons should absolutely deny all knowledge of it we must conclude it to come from the Campbells.”",
+        "score": 0.7637876272201538,
+        "metadata": {
+          "page": 26,
+          "start": 12346,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "chapter": "VIII",
+          "document_id": "pg158",
+          "end": 12656
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:26:27469:27958",
+        "text": "and I had almost forgotten one idea that occurred to me—this pianoforte that has been sent here by somebody—though we have all been so well satisfied to consider it a present from the Campbells, may it not be from Mr. Knightley? I cannot help suspecting him. I think he is just the person to do it, even without being in love.”\n\n“Then it can be no argument to prove that he is in love. But I do not think it is at all a likely thing for him to do. Mr. Knightley does nothing mysteriously.”",
+        "score": 0.7203863859176636,
+        "metadata": {
+          "page": 26,
+          "document_id": "pg158",
+          "chapter": "VIII",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 27958,
+          "start": 27469,
+          "volume": "II"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:26:32127:32511",
+        "text": "“This present from the Campbells,” said she—“this pianoforte is very kindly given.”\n\n“Yes,” he replied, and without the smallest apparent embarrassment.—“But they would have done better had they given her notice of it. Surprizes are foolish things. The pleasure is not enhanced, and the inconvenience is often considerable. I should have expected better judgment in Colonel Campbell.”",
+        "score": 0.6855625510215759,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "page": 26,
+          "end": 32511,
+          "start": 32127,
+          "document_id": "pg158",
+          "chapter": "VIII"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 1.452,
+    "benchmark": {
+      "id": "Q15",
+      "split": "dev",
+      "question": "Whose spectacles was Frank Churchill working on when the visitors came in?",
+      "expected_answer": "Mrs. Bates's.",
+      "gold_source_id": "pg158",
+      "gold_page": 28,
+      "evidence_quote": "Mrs. Bates, deprived of her usual employment, slumbering on one side of the fire, Frank Churchill, at a table near her, most deedily occupied about her spectacles"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:38:858:1250",
+        "text": "Frank Churchill seemed to have been on the watch; and though he did not say much, his eyes declared that he meant to have a delightful evening. They all walked about together, to see that every thing was as it should be; and within a few minutes were joined by the contents of another carriage, which Emma could not hear the sound of at first, without great surprize. “So unreasonably early!”",
+        "score": 0.6883814334869385,
+        "metadata": {
+          "volume": "III",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 38,
+          "start": 858,
+          "end": 1250,
+          "chapter": "II",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:2:5330:5592",
+        "text": "Mr. Frank Churchill was one of the boasts of Highbury, and a lively curiosity to see him prevailed, though the compliment was so little returned that he had never been there in his life. His coming to visit his father had been often talked of but never achieved.",
+        "score": 0.6806269884109497,
+        "metadata": {
+          "end": 5592,
+          "chapter": "II",
+          "page": 2,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 5330,
+          "volume": "I",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:29:393:818",
+        "text": "Frank Churchill had danced once at Highbury, and longed to dance again; and the last half-hour of an evening which Mr. Woodhouse was persuaded to spend with his daughter at Randalls, was passed by the two young people in schemes on the subject. Frank’s was the first idea; and his the greatest zeal in pursuing it; for the lady was the best judge of the difficulties, and the most solicitous for accommodation and appearance.",
+        "score": 0.6425198316574097,
+        "metadata": {
+          "chapter": "XI",
+          "page": 29,
+          "end": 818,
+          "start": 393,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 3.004,
+    "benchmark": {
+      "id": "Q16",
+      "split": "test",
+      "question": "Where did the party go on the day described as fine for their outing?",
+      "expected_answer": "Box Hill.",
+      "gold_source_id": "pg158",
+      "gold_page": 43,
+      "evidence_quote": "They had a very fine day for Box Hill",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:25:6300:6800",
+        "text": " they walked about Highbury the day before, and Frank Churchill had most earnestly lamented her absence. Might not the evening end in a dance? had been a question of his. The bare possibility of it acted as a farther irritation on her spirits; and her being left in solitary grandeur, even supposing the omission to be intended as a compliment, was but poor comfort.\n\nIt was the arrival of this very invitation while the Westons were at Hartfield, which made their presence so acceptable; for though ",
+        "score": 0.6351627707481384,
+        "metadata": {
+          "end": 6800,
+          "start": 6300,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "document_id": "pg158",
+          "page": 25,
+          "chapter": "VII"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:34:3600:4100",
+        "text": " all disengaged and all happy.—The preparatory interest of this dinner, however, was not yet over. A circumstance rather unlucky occurred. The two eldest little Knightleys were engaged to pay their grandpapa and aunt a visit of some weeks in the spring, and their papa now proposed bringing them, and staying one whole day at Hartfield—which one day would be the very day of this party.—His professional engagements did not allow of his being put off, but both father and daughter were disturbed by i",
+        "score": 0.6283525228500366,
+        "metadata": {
+          "start": 3600,
+          "page": 34,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XVI",
+          "document_id": "pg158",
+          "end": 4100,
+          "volume": "II"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:44:9000:9500",
+        "text": "nd a very agreeable evening we had. Such kind friends, you know, Miss Woodhouse, one must always find agreeable, though every body seemed rather fagged after the morning’s party. Even pleasure, you know, is fatiguing—and I cannot say that any of them seemed very much to have enjoyed it. However, _I_ shall always think it a very pleasant party, and feel extremely obliged to the kind friends who included me in it.”\n\n“Miss Fairfax, I suppose, though you were not aware of it, had been making up her ",
+        "score": 0.6277108788490295,
+        "metadata": {
+          "document_id": "pg158",
+          "start": 9000,
+          "chapter": "VIII",
+          "page": 44,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 9500,
+          "volume": "III"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 2.108,
+    "benchmark": {
+      "id": "Q17",
+      "split": "test",
+      "question": "Which two people had been secretly engaged for some time?",
+      "expected_answer": "Jane Fairfax and Frank Churchill.",
+      "gold_source_id": "pg158",
+      "gold_page": 47,
+      "evidence_quote": "Jane Fairfax and Mr. Frank Churchill are to be married, and that they have been privately engaged to one another this long while.",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:46:6750:7250",
+        "text": " comprehend it. What!—engaged to her all the winter—before either of them came to Highbury?”\n\n“Engaged since October,—secretly engaged.—It has hurt me, Emma, very much. It has hurt his father equally. _Some_ _part_ of his conduct we cannot excuse.”\n\nEmma pondered a moment, and then replied, “I will not pretend _not_ to understand you; and to give you all the relief in my power, be assured that no such effect has followed his attentions to me, as you are apprehensive of.”\n\nMrs. Weston looked up, ",
+        "score": 0.681147575378418,
+        "metadata": {
+          "start": 6750,
+          "end": 7250,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "volume": "III",
+          "page": 46,
+          "chapter": "X"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:50:13950:14450",
+        "text": " late; I met her walking home by herself, and wanted to walk with her, but she would not suffer it. She absolutely refused to allow me, which I then thought most unreasonable. Now, however, I see nothing in it but a very natural and consistent degree of discretion. While I, to blind the world to our engagement, was behaving one hour with objectionable particularity to another woman, was she to be consenting the next to a proposal which might have made every previous caution useless?—Had we been ",
+        "score": 0.6677310466766357,
+        "metadata": {
+          "end": 14450,
+          "chapter": "XIV",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "volume": "III",
+          "page": 50,
+          "start": 13950
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:46:13050:13550",
+        "text": "t, there had been the shock of finding her so very unwell, which he had had no previous suspicion of—and there was every appearance of his having been feeling a great deal.”\n\n“And do you really believe the affair to have been carrying on with such perfect secresy?—The Campbells, the Dixons, did none of them know of the engagement?”\n\nEmma could not speak the name of Dixon without a little blush.\n\n“None; not one. He positively said that it had been known to no being in the world but their two selv",
+        "score": 0.6618636846542358,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "end": 13550,
+          "start": 13050,
+          "page": 46,
+          "volume": "III",
+          "chapter": "X"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 1.475,
+    "benchmark": {
+      "id": "Q18",
+      "split": "test",
+      "question": "For whose children had Jane Fairfax accepted a position as governess?",
+      "expected_answer": "Mrs. Smallridge's children.",
+      "gold_source_id": "pg158",
+      "gold_page": 51,
+      "evidence_quote": "She had engaged to go as governess to Mrs. Smallridge’s children",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:20:0:500",
+        "text": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter.\n\nThe marriage of Lieut. Fairfax of the ——regiment of infantry, and Miss Jane Bates, had had its day of fame and pleasure, hope and interest; but nothing now remained of it, save the melancholy remembrance of him dying in action abroad—of his widow sinking under consumption and grief soon afterwards—and this girl.\n\nBy birth she belonged to Highbury: and when at three years old, on losing her mother, she became the prope",
+        "score": 0.7013907432556152,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 20,
+          "chapter": "II",
+          "end": 500,
+          "document_id": "pg158",
+          "volume": "II",
+          "start": 0
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:20:2250:2750",
+        "text": "er; for though his income, by pay and appointments, was handsome, his fortune was moderate and must be all his daughter’s; but, by giving her an education, he hoped to be supplying the means of respectable subsistence hereafter.\n\nSuch was Jane Fairfax’s history. She had fallen into good hands, known nothing but kindness from the Campbells, and been given an excellent education. Living constantly with right-minded and well-informed people, her heart and understanding had received every advantage ",
+        "score": 0.658105731010437,
+        "metadata": {
+          "end": 2750,
+          "volume": "II",
+          "start": 2250,
+          "document_id": "pg158",
+          "page": 20,
+          "chapter": "II",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:20:8100:8600",
+        "text": "ithout feeling that she had injured her; and now, when the due visit was paid, on her arrival, after a two years’ interval, she was particularly struck with the very appearance and manners, which for those two whole years she had been depreciating. Jane Fairfax was very elegant, remarkably elegant; and she had herself the highest value for elegance. Her height was pretty, just such as almost every body would think tall, and nobody could think very tall; her figure particularly graceful; her size",
+        "score": 0.6259983777999878,
+        "metadata": {
+          "chapter": "II",
+          "page": 20,
+          "volume": "II",
+          "end": 8600,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 8100,
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 1.562,
+    "benchmark": {
+      "id": "Q19",
+      "split": "test",
+      "question": "Whose safe recovery became a reason for her friends to rejoice?",
+      "expected_answer": "Mrs. Weston's.",
+      "gold_source_id": "pg158",
+      "gold_page": 53,
+      "evidence_quote": "Mrs. Weston’s friends were all made happy by her safety"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:2:6750:7250",
+        "text": "d. She felt herself a most fortunate woman; and she had lived long enough to know how fortunate she might well be thought, where the only regret was for a partial separation from friends whose friendship for her had never cooled, and who could ill bear to part with her.\n\nShe knew that at times she must be missed; and could not think, without pain, of Emma’s losing a single pleasure, or suffering an hour’s ennui, from the want of her companionableness: but dear Emma was of no feeble character; sh",
+        "score": 0.7003568410873413,
+        "metadata": {
+          "end": 7250,
+          "document_id": "pg158",
+          "page": 2,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 6750,
+          "volume": "I",
+          "chapter": "II"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:39:5400:5900",
+        "text": "as she had recovered her senses and speech.—He dared not stay longer than to see her well; these several delays left him not another minute to lose; and Emma engaging to give assurance of her safety to Mrs. Goddard, and notice of there being such a set of people in the neighbourhood to Mr. Knightley, he set off, with all the grateful blessings that she could utter for her friend and herself.\n\nSuch an adventure as this,—a fine young man and a lovely young woman thrown together in such a way, coul",
+        "score": 0.6904020309448242,
+        "metadata": {
+          "chapter": "III",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 5400,
+          "end": 5900,
+          "document_id": "pg158",
+          "page": 39,
+          "volume": "III"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:31:9450:9950",
+        "text": "is appeal to her affections did more than all the rest. The idea of wanting gratitude and consideration for Miss Woodhouse, whom she really loved extremely, made her wretched for a while, and when the violence of grief was comforted away, still remained powerful enough to prompt to what was right and support her in it very tolerably.\n\n“You, who have been the best friend I ever had in my life—Want gratitude to you!—Nobody is equal to you!—I care for nobody as I do for you!—Oh! Miss Woodhouse, how",
+        "score": 0.6870923638343811,
+        "metadata": {
+          "page": 31,
+          "end": 9950,
+          "volume": "II",
+          "start": 9450,
+          "document_id": "pg158",
+          "chapter": "XIII",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "A",
+    "applied_filter": null,
+    "search_ms": 1.459,
+    "benchmark": {
+      "id": "Q20",
+      "split": "test",
+      "question": "Which animals were stolen from Mrs. Weston's poultry house?",
+      "expected_answer": "Turkeys.",
+      "gold_source_id": "pg158",
+      "gold_page": 55,
+      "evidence_quote": "Mrs. Weston’s poultry-house was robbed one night of all her turkeys"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:55:5400:5900",
+        "text": " of his nervous system, but by the operation of the same system in another way.—Mrs. Weston’s poultry-house was robbed one night of all her turkeys—evidently by the ingenuity of man. Other poultry-yards in the neighbourhood also suffered.—Pilfering was _housebreaking_ to Mr. Woodhouse’s fears.—He was very uneasy; and but for the sense of his son-in-law’s protection, would have been under wretched alarm every night of his life. The strength, resolution, and presence of mind of the Mr. Knightleys,",
+        "score": 0.6768068075180054,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XIX",
+          "start": 5400,
+          "page": 55,
+          "document_id": "pg158",
+          "volume": "III",
+          "end": 5900
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:1:3600:4100",
+        "text": "Mrs. Weston, only half a mile from them, and a Miss Taylor in the house; and with all her advantages, natural and domestic, she was now in great danger of suffering from intellectual solitude. She dearly loved her father, but he was no companion for her. He could not meet her in conversation, rational or playful.\n\nThe evil of the actual disparity in their ages (and Mr. Woodhouse had not married early) was much increased by his constitution and habits; for having been a valetudinarian all his lif",
+        "score": 0.6102643013000488,
+        "metadata": {
+          "document_id": "pg158",
+          "chapter": "I",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 1,
+          "end": 4100,
+          "start": 3600,
+          "volume": "I"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:42:3150:3650",
+        "text": "none of it in private.\n\nIt was now the middle of June, and the weather fine; and Mrs. Elton was growing impatient to name the day, and settle with Mr. Weston as to pigeon-pies and cold lamb, when a lame carriage-horse threw every thing into sad uncertainty. It might be weeks, it might be only a few days, before the horse were useable; but no preparations could be ventured on, and it was all melancholy stagnation. Mrs. Elton’s resources were inadequate to such an attack.\n\n“Is not this most vexati",
+        "score": 0.6034665107727051,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "chapter": "VI",
+          "page": 42,
+          "start": 3150,
+          "document_id": "pg158",
+          "end": 3650
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.774,
+    "benchmark": {
+      "id": "Q16",
+      "split": "test",
+      "question": "Where did the party go on the day described as fine for their outing?",
+      "expected_answer": "Box Hill.",
+      "gold_source_id": "pg158",
+      "gold_page": 43,
+      "evidence_quote": "They had a very fine day for Box Hill",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:43:0:482",
+        "text": "They had a very fine day for Box Hill; and all the other outward circumstances of arrangement, accommodation, and punctuality, were in favour of a pleasant party. Mr. Weston directed the whole, officiating safely between Hartfield and the Vicarage, and every body was in good time. Emma and Harriet went together; Miss Bates and her niece, with the Eltons; the gentlemen on horseback. Mrs. Weston remained with Mr. Woodhouse. Nothing was wanting but to be happy when they got there.",
+        "score": 0.6703634262084961,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "VII",
+          "page": 43,
+          "volume": "III",
+          "end": 482,
+          "start": 0,
+          "document_id": "pg158"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:38:2164:2442",
+        "text": "The whole party walked about, and looked, and praised again; and then, having nothing else to do, formed a sort of half-circle round the fire, to observe in their various modes, till other subjects were started, that, though _May_, a fire in the evening was still very pleasant.",
+        "score": 0.6645969152450562,
+        "metadata": {
+          "document_id": "pg158",
+          "start": 2164,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "page": 38,
+          "chapter": "II",
+          "end": 2442
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:34:3558:4055",
+        "text": "Every invitation was successful. They were all disengaged and all happy.—The preparatory interest of this dinner, however, was not yet over. A circumstance rather unlucky occurred. The two eldest little Knightleys were engaged to pay their grandpapa and aunt a visit of some weeks in the spring, and their papa now proposed bringing them, and staying one whole day at Hartfield—which one day would be the very day of this party.—His professional engagements did not allow of his being put off, but",
+        "score": 0.6363502740859985,
+        "metadata": {
+          "chapter": "XVI",
+          "end": 4055,
+          "document_id": "pg158",
+          "page": 34,
+          "volume": "II",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 3558
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.565,
+    "benchmark": {
+      "id": "Q17",
+      "split": "test",
+      "question": "Which two people had been secretly engaged for some time?",
+      "expected_answer": "Jane Fairfax and Frank Churchill.",
+      "gold_source_id": "pg158",
+      "gold_page": 47,
+      "evidence_quote": "Jane Fairfax and Mr. Frank Churchill are to be married, and that they have been privately engaged to one another this long while.",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:46:6611:6998",
+        "text": "“Well,” said she at last, trying to recover herself; “this is a circumstance which I must think of at least half a day, before I can at all comprehend it. What!—engaged to her all the winter—before either of them came to Highbury?”\n\n“Engaged since October,—secretly engaged.—It has hurt me, Emma, very much. It has hurt his father equally. _Some_ _part_ of his conduct we cannot excuse.”",
+        "score": 0.7100764513015747,
+        "metadata": {
+          "start": 6611,
+          "page": 46,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "III",
+          "document_id": "pg158",
+          "end": 6998,
+          "chapter": "X"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:26:34666:35097",
+        "text": "Cole—he was looking on unconcerned; Jane was asked by somebody else, and he was still talking to Mrs. Cole.\n\nEmma had no longer an alarm for Henry; his interest was yet safe; and she led off the dance with genuine spirit and enjoyment. Not more than five couple could be mustered; but the rarity and the suddenness of it made it very delightful, and she found herself well matched in a partner. They were a couple worth looking at.",
+        "score": 0.6814490556716919,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 26,
+          "volume": "II",
+          "start": 34666,
+          "document_id": "pg158",
+          "chapter": "VIII",
+          "end": 35097
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:50:14126:14599",
+        "text": "Now, however, I see nothing in it but a very natural and consistent degree of discretion. While I, to blind the world to our engagement, was behaving one hour with objectionable particularity to another woman, was she to be consenting the next to a proposal which might have made every previous caution useless?—Had we been met walking together between Donwell and Highbury, the truth must have been suspected.—I was mad enough, however, to resent.—I doubted her affection.",
+        "score": 0.6755979061126709,
+        "metadata": {
+          "end": 14599,
+          "page": 50,
+          "start": 14126,
+          "volume": "III",
+          "chapter": "XIV",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.417,
+    "benchmark": {
+      "id": "Q18",
+      "split": "test",
+      "question": "For whose children had Jane Fairfax accepted a position as governess?",
+      "expected_answer": "Mrs. Smallridge's children.",
+      "gold_source_id": "pg158",
+      "gold_page": 51,
+      "evidence_quote": "She had engaged to go as governess to Mrs. Smallridge’s children",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:20:0:392",
+        "text": "Jane Fairfax was an orphan, the only child of Mrs. Bates’s youngest daughter.\n\nThe marriage of Lieut. Fairfax of the ——regiment of infantry, and Miss Jane Bates, had had its day of fame and pleasure, hope and interest; but nothing now remained of it, save the melancholy remembrance of him dying in action abroad—of his widow sinking under consumption and grief soon afterwards—and this girl.",
+        "score": 0.6876875162124634,
+        "metadata": {
+          "chapter": "II",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "end": 392,
+          "start": 0,
+          "page": 20
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:21:2808:3210",
+        "text": "I like old friends; and Miss Jane Fairfax is a very pretty sort of young lady, a very pretty and a very well-behaved young lady indeed. She must have found the evening agreeable, Mr. Knightley, because she had Emma.”\n\n“True, sir; and Emma, because she had Miss Fairfax.”\n\nEmma saw his anxiety, and wishing to appease it, at least for the present, said, and with a sincerity which no one could question—",
+        "score": 0.6604645848274231,
+        "metadata": {
+          "page": 21,
+          "document_id": "pg158",
+          "end": 3210,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 2808,
+          "volume": "II",
+          "chapter": "III"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:20:2480:2919",
+        "text": "Such was Jane Fairfax’s history. She had fallen into good hands, known nothing but kindness from the Campbells, and been given an excellent education. Living constantly with right-minded and well-informed people, her heart and understanding had received every advantage of discipline and culture; and Colonel Campbell’s residence being in London, every lighter talent had been done full justice to, by the attendance of first-rate masters.",
+        "score": 0.6518640518188477,
+        "metadata": {
+          "end": 2919,
+          "chapter": "II",
+          "start": 2480,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "volume": "II",
+          "page": 20
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 2.088,
+    "benchmark": {
+      "id": "Q19",
+      "split": "test",
+      "question": "Whose safe recovery became a reason for her friends to rejoice?",
+      "expected_answer": "Mrs. Weston's.",
+      "gold_source_id": "pg158",
+      "gold_page": 53,
+      "evidence_quote": "Mrs. Weston’s friends were all made happy by her safety"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:52:6741:7078",
+        "text": "“Do not you think, Miss Woodhouse, our saucy little friend here is charmingly recovered?—Do not you think her cure does Perry the highest credit?—(here was a side-glance of great meaning at Jane.) Upon my word, Perry has restored her in a wonderful short time!—Oh! if you had seen her, as I did, when she was at the worst!”—And when Mrs.",
+        "score": 0.6897119283676147,
+        "metadata": {
+          "volume": "III",
+          "end": 7078,
+          "page": 52,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 6741,
+          "chapter": "XVI"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:20:5344:5658",
+        "text": "Perhaps they began to feel it might have been kinder and wiser to have resisted the temptation of any delay, and spared her from a taste of such enjoyments of ease and leisure as must now be relinquished. Still, however, affection was glad to catch at any reasonable excuse for not hurrying on the wretched moment.",
+        "score": 0.6711876392364502,
+        "metadata": {
+          "end": 5658,
+          "start": 5344,
+          "page": 20,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "II",
+          "volume": "II",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:49:14290:14769",
+        "text": "She had led her friend astray, and it would be a reproach to her for ever; but her judgment was as strong as her feelings, and as strong as it had ever been before, in reprobating any such alliance for him, as most unequal and degrading. Her way was clear, though not quite smooth.—She spoke then, on being so entreated.—What did she say?—Just what she ought, of course. A lady always does.—She said enough to shew there need not be despair—and to invite him to say more himself.",
+        "score": 0.6690444946289062,
+        "metadata": {
+          "page": 49,
+          "volume": "III",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "chapter": "XIII",
+          "end": 14769,
+          "start": 14290
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "B",
+    "applied_filter": null,
+    "search_ms": 1.719,
+    "benchmark": {
+      "id": "Q20",
+      "split": "test",
+      "question": "Which animals were stolen from Mrs. Weston's poultry house?",
+      "expected_answer": "Turkeys.",
+      "gold_source_id": "pg158",
+      "gold_page": 55,
+      "evidence_quote": "Mrs. Weston’s poultry-house was robbed one night of all her turkeys"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:55:5273:5675",
+        "text": "In this state of suspense they were befriended, not by any sudden illumination of Mr. Woodhouse’s mind, or any wonderful change of his nervous system, but by the operation of the same system in another way.—Mrs. Weston’s poultry-house was robbed one night of all her turkeys—evidently by the ingenuity of man. Other poultry-yards in the neighbourhood also suffered.—Pilfering was _housebreaking_ to Mr.",
+        "score": 0.671229362487793,
+        "metadata": {
+          "document_id": "pg158",
+          "chapter": "XIX",
+          "volume": "III",
+          "end": 5675,
+          "start": 5273,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 55
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:42:18134:18613",
+        "text": "The next remove was to the house; they must all go in and eat;—and they were all seated and busy, and still Frank Churchill did not come. Mrs. Weston looked, and looked in vain. His father would not own himself uneasy, and laughed at her fears; but she could not be cured of wishing that he would part with his black mare. He had expressed himself as to coming, with more than common certainty. “His aunt was so much better, that he had not a doubt of getting over to them.”—Mrs.",
+        "score": 0.6612515449523926,
+        "metadata": {
+          "end": 18613,
+          "volume": "III",
+          "page": 42,
+          "chapter": "VI",
+          "start": 18134,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:11:6457:6923",
+        "text": "“Oh! papa, we have missed seeing them but one entire day since they married. Either in the morning or evening of every day, excepting one, have we seen either Mr. Weston or Mrs. Weston, and generally both, either at Randalls or here—and as you may suppose, Isabella, most frequently here. They are very, very kind in their visits. Mr. Weston is really as kind as herself. Papa, if you speak in that melancholy way, you will be giving Isabella a false idea of us all.",
+        "score": 0.6214417219161987,
+        "metadata": {
+          "volume": "I",
+          "chapter": "XI",
+          "end": 6923,
+          "start": 6457,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 11
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "C",
+    "applied_filter": {
+      "volume": "III"
+    },
+    "search_ms": 11.741,
+    "benchmark": {
+      "id": "Q16",
+      "split": "test",
+      "question": "Where did the party go on the day described as fine for their outing?",
+      "expected_answer": "Box Hill.",
+      "gold_source_id": "pg158",
+      "gold_page": 43,
+      "evidence_quote": "They had a very fine day for Box Hill",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:43:0:482",
+        "text": "They had a very fine day for Box Hill; and all the other outward circumstances of arrangement, accommodation, and punctuality, were in favour of a pleasant party. Mr. Weston directed the whole, officiating safely between Hartfield and the Vicarage, and every body was in good time. Emma and Harriet went together; Miss Bates and her niece, with the Eltons; the gentlemen on horseback. Mrs. Weston remained with Mr. Woodhouse. Nothing was wanting but to be happy when they got there.",
+        "score": 0.6703634262084961,
+        "metadata": {
+          "chapter": "VII",
+          "page": 43,
+          "end": 482,
+          "document_id": "pg158",
+          "start": 0,
+          "volume": "III",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:38:2164:2442",
+        "text": "The whole party walked about, and looked, and praised again; and then, having nothing else to do, formed a sort of half-circle round the fire, to observe in their various modes, till other subjects were started, that, though _May_, a fire in the evening was still very pleasant.",
+        "score": 0.6645969152450562,
+        "metadata": {
+          "chapter": "II",
+          "end": 2442,
+          "page": 38,
+          "volume": "III",
+          "start": 2164,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:41:2185:2574",
+        "text": "He had walked up one day after dinner, as he very often did, to spend his evening at Hartfield. Emma and Harriet were going to walk; he joined them; and, on returning, they fell in with a larger party, who, like themselves, judged it wisest to take their exercise early, as the weather threatened rain; Mr. and Mrs. Weston and their son, Miss Bates and her niece, who had accidentally met.",
+        "score": 0.6211509704589844,
+        "metadata": {
+          "start": 2185,
+          "page": 41,
+          "end": 2574,
+          "chapter": "V",
+          "volume": "III",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  },
+  {
+    "strategy": "C",
+    "applied_filter": {
+      "volume": "III"
+    },
+    "search_ms": 7.701,
+    "benchmark": {
+      "id": "Q17",
+      "split": "test",
+      "question": "Which two people had been secretly engaged for some time?",
+      "expected_answer": "Jane Fairfax and Frank Churchill.",
+      "gold_source_id": "pg158",
+      "gold_page": 47,
+      "evidence_quote": "Jane Fairfax and Mr. Frank Churchill are to be married, and that they have been privately engaged to one another this long while.",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:46:6611:6998",
+        "text": "“Well,” said she at last, trying to recover herself; “this is a circumstance which I must think of at least half a day, before I can at all comprehend it. What!—engaged to her all the winter—before either of them came to Highbury?”\n\n“Engaged since October,—secretly engaged.—It has hurt me, Emma, very much. It has hurt his father equally. _Some_ _part_ of his conduct we cannot excuse.”",
+        "score": 0.7100764513015747,
+        "metadata": {
+          "start": 6611,
+          "volume": "III",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 46,
+          "end": 6998,
+          "chapter": "X"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:50:14126:14599",
+        "text": "Now, however, I see nothing in it but a very natural and consistent degree of discretion. While I, to blind the world to our engagement, was behaving one hour with objectionable particularity to another woman, was she to be consenting the next to a proposal which might have made every previous caution useless?—Had we been met walking together between Donwell and Highbury, the truth must have been suspected.—I was mad enough, however, to resent.—I doubted her affection.",
+        "score": 0.6755979061126709,
+        "metadata": {
+          "end": 14599,
+          "chapter": "XIV",
+          "page": 50,
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "start": 14126,
+          "volume": "III"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:47:16949:17448",
+        "text": "On the subject of the first of the two circumstances, she did, after a little reflection, venture the following question. “Might he not?—Is not it possible, that when enquiring, as you thought, into the state of your affections, he might be alluding to Mr. Martin—he might have Mr. Martin’s interest in view? But Harriet rejected the suspicion with spirit.\n\n“Mr. Martin! No indeed!—There was not a hint of Mr. Martin. I hope I know better now, than to care for Mr. Martin, or to be suspected of it.”",
+        "score": 0.6549795866012573,
+        "metadata": {
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "end": 17448,
+          "page": 47,
+          "start": 16949,
+          "chapter": "XI",
+          "volume": "III"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": {
+      "volume": "III"
+    },
+    "search_ms": 7.706,
+    "benchmark": {
+      "id": "Q18",
+      "split": "test",
+      "question": "For whose children had Jane Fairfax accepted a position as governess?",
+      "expected_answer": "Mrs. Smallridge's children.",
+      "gold_source_id": "pg158",
+      "gold_page": 51,
+      "evidence_quote": "She had engaged to go as governess to Mrs. Smallridge’s children",
+      "filter": {
+        "volume": "III"
+      },
+      "context": "Reader selected Volume III before asking."
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:47:1668:2159",
+        "text": "She was extremely angry with herself. If she could not have been angry with Frank Churchill too, it would have been dreadful.—As for Jane Fairfax, she might at least relieve her feelings from any present solicitude on her account. Harriet would be anxiety enough; she need no longer be unhappy about Jane, whose troubles and whose ill-health having, of course, the same origin, must be equally under cure.—Her days of insignificance and evil were over.—She would soon be well, and happy, and",
+        "score": 0.6192271113395691,
+        "metadata": {
+          "start": 1668,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "page": 47,
+          "volume": "III",
+          "chapter": "XI",
+          "end": 2159
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:54:11602:11858",
+        "text": "“It is Frank and Miss Fairfax,” said Mrs. Weston. “I was just going to tell you of our agreeable surprize in seeing him arrive this morning. He stays till to-morrow, and Miss Fairfax has been persuaded to spend the day with us.—They are coming in, I hope.”",
+        "score": 0.6149833798408508,
+        "metadata": {
+          "chapter": "XVIII",
+          "page": 54,
+          "volume": "III",
+          "document_id": "pg158",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "end": 11858,
+          "start": 11602
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:45:7984:8469",
+        "text": "It was a more pressing concern to shew attention to Jane Fairfax, whose prospects were closing, while Harriet’s opened, and whose engagements now allowed of no delay in any one at Highbury, who wished to shew her kindness—and with Emma it was grown into a first wish. She had scarcely a stronger regret than for her past coldness; and the person, whom she had been so many months neglecting, was now the very one on whom she would have lavished every distinction of regard or sympathy.",
+        "score": 0.6135799288749695,
+        "metadata": {
+          "page": 45,
+          "end": 8469,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "chapter": "IX",
+          "start": 7984,
+          "volume": "III"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 2.12,
+    "benchmark": {
+      "id": "Q19",
+      "split": "test",
+      "question": "Whose safe recovery became a reason for her friends to rejoice?",
+      "expected_answer": "Mrs. Weston's.",
+      "gold_source_id": "pg158",
+      "gold_page": 53,
+      "evidence_quote": "Mrs. Weston’s friends were all made happy by her safety"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:52:6741:7078",
+        "text": "“Do not you think, Miss Woodhouse, our saucy little friend here is charmingly recovered?—Do not you think her cure does Perry the highest credit?—(here was a side-glance of great meaning at Jane.) Upon my word, Perry has restored her in a wonderful short time!—Oh! if you had seen her, as I did, when she was at the worst!”—And when Mrs.",
+        "score": 0.6897119283676147,
+        "metadata": {
+          "page": 52,
+          "volume": "III",
+          "chapter": "XVI",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "document_id": "pg158",
+          "start": 6741,
+          "end": 7078
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:20:5344:5658",
+        "text": "Perhaps they began to feel it might have been kinder and wiser to have resisted the temptation of any delay, and spared her from a taste of such enjoyments of ease and leisure as must now be relinquished. Still, however, affection was glad to catch at any reasonable excuse for not hurrying on the wretched moment.",
+        "score": 0.6711876392364502,
+        "metadata": {
+          "document_id": "pg158",
+          "end": 5658,
+          "page": 20,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "II",
+          "start": 5344,
+          "chapter": "II"
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:49:14290:14769",
+        "text": "She had led her friend astray, and it would be a reproach to her for ever; but her judgment was as strong as her feelings, and as strong as it had ever been before, in reprobating any such alliance for him, as most unequal and degrading. Her way was clear, though not quite smooth.—She spoke then, on being so entreated.—What did she say?—Just what she ought, of course. A lady always does.—She said enough to shew there need not be despair—and to invite him to say more himself.",
+        "score": 0.6690444946289062,
+        "metadata": {
+          "page": 49,
+          "document_id": "pg158",
+          "end": 14769,
+          "volume": "III",
+          "start": 14290,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "XIII"
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": false,
+    "hit3": false
+  },
+  {
+    "strategy": "C",
+    "applied_filter": null,
+    "search_ms": 2.064,
+    "benchmark": {
+      "id": "Q20",
+      "split": "test",
+      "question": "Which animals were stolen from Mrs. Weston's poultry house?",
+      "expected_answer": "Turkeys.",
+      "gold_source_id": "pg158",
+      "gold_page": 55,
+      "evidence_quote": "Mrs. Weston’s poultry-house was robbed one night of all her turkeys"
+    },
+    "hits": [
+      {
+        "chunk_id": "pg158:55:5273:5675",
+        "text": "In this state of suspense they were befriended, not by any sudden illumination of Mr. Woodhouse’s mind, or any wonderful change of his nervous system, but by the operation of the same system in another way.—Mrs. Weston’s poultry-house was robbed one night of all her turkeys—evidently by the ingenuity of man. Other poultry-yards in the neighbourhood also suffered.—Pilfering was _housebreaking_ to Mr.",
+        "score": 0.671229362487793,
+        "metadata": {
+          "chapter": "XIX",
+          "document_id": "pg158",
+          "end": 5675,
+          "volume": "III",
+          "start": 5273,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "page": 55
+        },
+        "evidence_hit": true
+      },
+      {
+        "chunk_id": "pg158:42:18134:18613",
+        "text": "The next remove was to the house; they must all go in and eat;—and they were all seated and busy, and still Frank Churchill did not come. Mrs. Weston looked, and looked in vain. His father would not own himself uneasy, and laughed at her fears; but she could not be cured of wishing that he would part with his black mare. He had expressed himself as to coming, with more than common certainty. “His aunt was so much better, that he had not a doubt of getting over to them.”—Mrs.",
+        "score": 0.6612515449523926,
+        "metadata": {
+          "volume": "III",
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "chapter": "VI",
+          "document_id": "pg158",
+          "end": 18613,
+          "start": 18134,
+          "page": 42
+        },
+        "evidence_hit": false
+      },
+      {
+        "chunk_id": "pg158:11:6457:6923",
+        "text": "“Oh! papa, we have missed seeing them but one entire day since they married. Either in the morning or evening of every day, excepting one, have we seen either Mr. Weston or Mrs. Weston, and generally both, either at Randalls or here—and as you may suppose, Isabella, most frequently here. They are very, very kind in their visits. Mr. Weston is really as kind as herself. Papa, if you speak in that melancholy way, you will be giving Isabella a false idea of us all.",
+        "score": 0.6214417219161987,
+        "metadata": {
+          "chapter": "XI",
+          "page": 11,
+          "end": 6923,
+          "source": "https://www.gutenberg.org/ebooks/158",
+          "volume": "I",
+          "document_id": "pg158",
+          "start": 6457
+        },
+        "evidence_hit": false
+      }
+    ],
+    "hit1": true,
+    "hit3": true
+  }
+]
